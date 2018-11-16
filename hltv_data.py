@@ -9,7 +9,9 @@ import numpy as np
 
 def getTeams():
     scraper = cfscrape.create_scraper()
-    teams_page = scraper.get("https://www.hltv.org/stats/teams").content
+    today = dt.datetime.today().strftime('%Y-%m-%d')
+    past = (dt.datetime.today() - relativedelta(months = 6)).strftime('%Y-%m-%d')
+    teams_page = scraper.get(f"https://www.hltv.org/stats/teams?startDate={past}&endDate={today}&minMapCount=15").content
     teams_html = bs(teams_page, "html.parser")
     teams_html
     team_row = teams_html.findAll("td", class_= "teamCol-teams-overview")
@@ -23,14 +25,16 @@ def getTeams():
     return url_list
 
 def get3MonthCoreStats(team_url):
-    today = dt.datetime.today().strftime('%Y-%m-%d')
-    past = (dt.datetime.today() - relativedelta(months = 3)).strftime('%Y-%m-%d')
+    scraper = cfscrape.create_scraper()
+    # today = dt.datetime.today().strftime('%Y-%m-%d')
+    # past = (dt.datetime.today() - relativedelta(months = 3)).strftime('%Y-%m-%d')
 
-    team_url = team_url + f"?StartDate={past}&endDate={today}"
+    # team_url = team_url + f"?StartDate={past}&endDate={today}"
     team_page = scraper.get(team_url).content
     team_html = bs(team_page, 'html.parser')
 
     nameOfTeam = team_html.find("span", class_ = "context-item-name")
+    # print(team_url)
     nameOfTeam = nameOfTeam.text
 
     stats = team_html.findAll("div", class_="col standard-box big-padding")
@@ -55,6 +59,7 @@ def get3MonthCoreStats(team_url):
     return stats_dict
 
 def pastResults(team_url):
+    scraper = cfscrape.create_scraper()
     match_history = team_url[:34] + "matches/" + team_url[34:]
     match_history = scraper.get(match_history).content
     match_html = bs(match_history, 'html.parser')
@@ -81,6 +86,9 @@ def pastResults(team_url):
         match_dict_list.append(match_dict)
     return match_dict_list
 
+def individualMatch():
+    return 
+
 def cleanCoreStats(core_stats):
     core_stats["Win"] = core_stats["wdl"].apply(lambda x:x[0])
     core_stats["Tie"] = core_stats["wdl"].apply(lambda x:x[1])
@@ -88,9 +96,9 @@ def cleanCoreStats(core_stats):
     core_stats = core_stats.drop(["wdl"], axis = 1)
     return core_stats
 
-def cleanMatchStats(match_Stats):
+def cleanMatchStats(match_stats):
     match_stats["roundsWon"] = match_stats["score"].apply(lambda x: int(x.split("-")[0]))
-    match_stats["roundsLost"] = match_stats["score"].apply(lambda x: int(x.split("-")[2]))
+    match_stats["roundsLost"] = match_stats["score"].apply(lambda x: int(x.split("-")[1]))
     match_stats = match_stats.drop('score', axis = 1)
     return match_stats
 
@@ -99,20 +107,21 @@ if __name__ == "__main__":
     team_urls = getTeams()
 
 
+
     team_list = []
     match_list = []
     for i in team_urls:
         team_list.append(get3MonthCoreStats(i))
         match_list.append(pastResults(i))
 
-    team_list = [i for i in dict_list if i is not None]
+    team_list = [i for i in team_list if i is not None]
 
     df_list = []
     for d in match_list:
         df_list.append(pd.DataFrame(d))
 
 
-    core_stats = pd.DataFrame(dict_list)
+    core_stats = pd.DataFrame(team_list)
     match_stats = pd.concat(df_list)
 
     core_stats = cleanCoreStats(core_stats)
@@ -120,6 +129,5 @@ if __name__ == "__main__":
 
 
 
-    core_stats[core_stats["Name"] == "Kinguin"]
-
-    core_stats[core_stats["Name"] == "Epsilon"]
+    match_stats.to_csv(r"S:\Analytics\Wes_S\csgo HTLV\matchstats.csv")
+    core_stats.to_csv(r"S:\Analytics\Wes_S\csgo HTLV\teamstats.csv")
