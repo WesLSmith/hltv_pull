@@ -9,14 +9,16 @@ from sklearn import linear_model
 def cleanTeamData(team_data):
 
     team_data["W/L"] = team_data["Win"]/team_data["Loss"]
-#test123
+
     return team_data[[
                     "Name",
                     "kdr",
                     "maps_played",
                     "roundsPerMap",
                     "rounds_played",
-                    "W/L"
+                    "W/L",
+                    "l3won",
+                    "l3lost"
                     ]]
 
 
@@ -42,8 +44,8 @@ def joinTeamMatches(team_data, match_stats):
     return joined_df
 
 if __name__ == "__main__":
-    team_data = pd.read_csv(r"C:\Users\wsmith\Desktop\personalDFS\csgo\hltv_pull\teamstats.csv")
-    match_stats = pd.read_csv(r"C:\Users\wsmith\Desktop\personalDFS\csgo\hltv_pull\matchstats.csv")
+    team_data = pd.read_csv(r"C:\Users\Wesley Smith\Desktop\csgobetting\hltv_pull\teamstats.csv", encoding = 'latin-1' )
+    match_stats = pd.read_csv(r"C:\Users\Wesley Smith\Desktop\csgobetting\hltv_pull\matchstats.csv", encoding = 'latin-1' )
 
     team_data
 
@@ -61,13 +63,22 @@ if __name__ == "__main__":
                             "W/L",
                             "W/L_opp",
                             "maps_played",
-                            "maps_played_opp"
+                            "maps_played_opp",
+                            "l3won",
+                            "l3won_opp",
+                            # "l3lost",
+                            # "l3lost_opp",
+
                             ]]
 
 
-    train_features, test_features, train_labels, test_labels = train_test_split(exogenous, joined_stats["totalRounds"], test_size = 0.2)
+    train_features, test_features, train_labels, test_labels = train_test_split(exogenous, joined_stats["totalRounds"], test_size = 0.15)
     # Instantiate model with 1000 decision trees
-    rf = RandomForestRegressor(n_estimators = 5000, n_jobs = 3, max_depth=5,)
+    rf = RandomForestRegressor(n_estimators = 2500,
+                               n_jobs = 7,
+                               max_depth=5,
+                               min_samples_leaf = .1
+                               )
     # Train the model on training data
     rf.fit(train_features, train_labels)
 
@@ -82,11 +93,12 @@ if __name__ == "__main__":
     accuracy = 100 - np.mean(mape)
     print('Mean Absolute % Accuracy:', round(accuracy, 2), '%.')
 
+    team_data
 
 
-
-    test = joined_stats[joined_stats["Name"] == "Liquid"]
-    test_op = joined_stats[joined_stats["Name"] == "Cloud9"]
+    test = joined_stats[joined_stats["Name"] == "Tricked"]
+    test_op = joined_stats[joined_stats["Name"] == "Vexed"]
+    len(test) > 0 and len(test_op) > 0
 
     l3 = rf.predict(np.array([
             test["kdr"].mean(),
@@ -97,6 +109,8 @@ if __name__ == "__main__":
             test_op["W/L"].mean(),
             test["maps_played"].mean(),
             test_op["maps_played"].mean(),
+            test["l3won"].mean(),
+            test_op["l3won"].mean(),
              ]).reshape(1,-1))
 
     l3

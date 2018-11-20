@@ -87,7 +87,7 @@ def pastResults(team_url):
     return match_dict_list
 
 def individualMatch():
-    return 
+    return
 
 def cleanCoreStats(core_stats):
     core_stats["Win"] = core_stats["wdl"].apply(lambda x:x[0])
@@ -127,7 +127,12 @@ if __name__ == "__main__":
     core_stats = cleanCoreStats(core_stats)
     match_stats = cleanMatchStats(match_stats)
 
+    lag3 = match_stats.groupby("team").head(3).groupby("team")["roundsWon","roundsLost"].sum().reset_index()
+    lag3.columns = ["team", 'l3won', 'l3lost']
+    core_stats = pd.merge(core_stats, lag3, left_on = "Name", right_on = "team")
+    core_stats = core_stats.drop(['team'], axis = 1)
 
+    core_stats
 
-    match_stats.to_csv(r"S:\Analytics\Wes_S\csgo HTLV\matchstats.csv")
-    core_stats.to_csv(r"S:\Analytics\Wes_S\csgo HTLV\teamstats.csv")
+    match_stats.to_csv(r"C:\Users\Wesley Smith\Desktop\csgobetting\hltv_pull\matchstats.csv")
+    core_stats.to_csv(r"C:\Users\Wesley Smith\Desktop\csgobetting\hltv_pull\teamstats.csv")
