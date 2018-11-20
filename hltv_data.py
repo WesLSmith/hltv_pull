@@ -10,11 +10,19 @@ import numpy as np
 def getTeams():
     scraper = cfscrape.create_scraper()
     today = dt.datetime.today().strftime('%Y-%m-%d')
-    past = (dt.datetime.today() - relativedelta(months = 6)).strftime('%Y-%m-%d')
+    past = (dt.datetime.today() - relativedelta(months = 8)).strftime('%Y-%m-%d')
     teams_page = scraper.get(f"https://www.hltv.org/stats/teams?startDate={past}&endDate={today}&minMapCount=15").content
     teams_html = bs(teams_page, "html.parser")
-    teams_html
+
     team_row = teams_html.findAll("td", class_= "teamCol-teams-overview")
+
+
+    rating = teams_html.findAll('td', class_="ratingCol")
+    rating = [i.text for i in rating]
+    rating_dict = {}
+    for i,j in zip(team_row,rating):
+        rating_dict[i.text] = float(j)
+
 
     url_list = []
     for i in team_row:
@@ -22,7 +30,7 @@ def getTeams():
         url = team_name.attrs['href']
         url_list.append("https://www.hltv.org/" + url)
 
-    return url_list
+    return url_list, rating_dict
 
 def get3MonthCoreStats(team_url):
     scraper = cfscrape.create_scraper()
@@ -90,6 +98,7 @@ def individualMatch():
     return
 
 def cleanCoreStats(core_stats):
+    core_stats = pd.merge(core_stats. rating, on ='team' )
     core_stats["Win"] = core_stats["wdl"].apply(lambda x:x[0])
     core_stats["Tie"] = core_stats["wdl"].apply(lambda x:x[1])
     core_stats["Loss"] = core_stats["wdl"].apply(lambda x:x[2])
@@ -104,8 +113,10 @@ def cleanMatchStats(match_stats):
 
 if __name__ == "__main__":
 
-    team_urls = getTeams()
+    team_urls, rating_dict = getTeams()
 
+    rating = pd.DataFrame(pd.Series(rating_dict)).reset_index()
+    rating.columns = ["team", "rating"]
 
 
     team_list = []
@@ -124,7 +135,7 @@ if __name__ == "__main__":
     core_stats = pd.DataFrame(team_list)
     match_stats = pd.concat(df_list)
 
-    core_stats = cleanCoreStats(core_stats)
+    core_stats = cleanCoreStats(core_stats, rating)
     match_stats = cleanMatchStats(match_stats)
 
     lag3 = match_stats.groupby("team").head(3).groupby("team")["roundsWon","roundsLost"].sum().reset_index()

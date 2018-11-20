@@ -2,9 +2,11 @@ import pandas as pd
 import numpy as np
 import statsmodels.api as sm
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import RandomizedSearchCV
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVR
 from sklearn import linear_model
+from scipy.stats import randint as sp_randint
 
 def cleanTeamData(team_data):
 
@@ -44,16 +46,14 @@ def joinTeamMatches(team_data, match_stats):
     return joined_df
 
 if __name__ == "__main__":
-    team_data = pd.read_csv(r"C:\Users\Wesley Smith\Desktop\csgobetting\hltv_pull\teamstats.csv", encoding = 'latin-1' )
-    match_stats = pd.read_csv(r"C:\Users\Wesley Smith\Desktop\csgobetting\hltv_pull\matchstats.csv", encoding = 'latin-1' )
+    team_data = pd.read_csv(r"C:\Users\wsmith\Desktop\personalDFS\csgo\hltv_pull\teamstats.csv", encoding = 'latin-1' )
+    match_stats = pd.read_csv(r"C:\Users\wsmith\Desktop\personalDFS\csgo\hltv_pull\matchstats.csv", encoding = 'latin-1' )
 
     team_data
 
     team_data =cleanTeamData(team_data)
     match_stats = cleanMatchStats(match_stats)
     joined_stats = joinTeamMatches(team_data, match_stats)
-
-    joined_stats
 
     exogenous = joined_stats[[
                             "kdr",
@@ -66,41 +66,43 @@ if __name__ == "__main__":
                             "maps_played_opp",
                             "l3won",
                             "l3won_opp",
-                            # "l3lost",
-                            # "l3lost_opp",
+                            "l3lost",
+                            "l3lost_opp",
 
                             ]]
+    joined_stats["binary"] = np.where(joined_stats["totalRounds"] > 26.5,1,0)
 
-
-    train_features, test_features, train_labels, test_labels = train_test_split(exogenous, joined_stats["totalRounds"], test_size = 0.15)
+    train_features, test_features, train_labels, test_labels = train_test_split(exogenous, joined_stats["binary"], test_size = 0.15)
     # Instantiate model with 1000 decision trees
-    rf = RandomForestRegressor(n_estimators = 2500,
+    rf = RandomForestClassifier(n_estimators = 2500,
                                n_jobs = 7,
                                max_depth=5,
                                min_samples_leaf = .1
                                )
-    # Train the model on training data
-    rf.fit(train_features, train_labels)
+
+    param_dist = {"max_depth": [3, None],
+              "max_features": sp_randint(1, 13),
+              "min_samples_split": sp_randint(2, 11),
+              "bootstrap": [True, False],
+              "criterion": ["gini", "entropy"]}
+
+    opt_rf = RandomizedSearchCV(rf, param_distributions = param_dist, n_iter = 50, cv =3)
+    opt_rf.fit(train_features, train_labels)
+
 
     # Use the forest's predict method on the test data
-    predictions = rf.predict(test_features)
-    # Calculate the absolute errors
-    errors = abs(predictions - test_labels)
-    # Print out the mean absolute error (mae)
-    print('Mean Absolute Error:', round(np.mean(errors), 2))
-    mape = 100 * (errors / test_labels)
-    # Calculate and display accuracy
-    accuracy = 100 - np.mean(mape)
-    print('Mean Absolute % Accuracy:', round(accuracy, 2), '%.')
+    predictions = opt_rf.predict(test_features)
 
-    team_data
+    ##metrics
+    print(opt_rf.score(test_features,test_labels))
 
 
-    test = joined_stats[joined_stats["Name"] == "Tricked"]
-    test_op = joined_stats[joined_stats["Name"] == "Vexed"]
+
+    test = joined_stats[joined_stats["Name"] == "Astralis"]
+    test_op = joined_stats[joined_stats["Name"] == "Liquid"]
     len(test) > 0 and len(test_op) > 0
 
-    l3 = rf.predict(np.array([
+    l3 = opt_rf.predict_proba(np.array([
             test["kdr"].mean(),
             test_op["kdr"].mean(),
             test["roundsPerMap"].mean(),
@@ -111,6 +113,10 @@ if __name__ == "__main__":
             test_op["maps_played"].mean(),
             test["l3won"].mean(),
             test_op["l3won"].mean(),
+            test["l3lost"].mean(),
+            test_op["l3lost"].mean()
+            ,
              ]).reshape(1,-1))
 
-    l3
+    print(l3)
+    opt_rf.classes_
