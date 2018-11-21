@@ -10,6 +10,7 @@ from scipy.stats import randint as sp_randint
 
 def cleanTeamData(team_data):
 
+    team_data["rating"] = (team_data["rating"]-team_data["rating"].min())/(team_data["rating"].max()-team_data["rating"].min())
     team_data["W/L"] = team_data["Win"]/team_data["Loss"]
 
     return team_data[[
@@ -20,7 +21,9 @@ def cleanTeamData(team_data):
                     "rounds_played",
                     "W/L",
                     "l3won",
-                    "l3lost"
+                    "l3lost",
+                    "rating"
+
                     ]]
 
 
@@ -68,11 +71,13 @@ if __name__ == "__main__":
                             "l3won_opp",
                             "l3lost",
                             "l3lost_opp",
+                            "rating",
+                            "rating_opp"
 
                             ]]
     joined_stats["binary"] = np.where(joined_stats["totalRounds"] > 26.5,1,0)
 
-    train_features, test_features, train_labels, test_labels = train_test_split(exogenous, joined_stats["binary"], test_size = 0.15)
+    train_features, test_features, train_labels, test_labels = train_test_split(exogenous, joined_stats["binary"], test_size = 0.10)
     # Instantiate model with 1000 decision trees
     rf = RandomForestClassifier(n_estimators = 2500,
                                n_jobs = 7,
@@ -80,8 +85,8 @@ if __name__ == "__main__":
                                min_samples_leaf = .1
                                )
 
-    param_dist = {"max_depth": [3, None],
-              "max_features": sp_randint(1, 13),
+    param_dist = {"max_depth": [3, 25],
+              "max_features": sp_randint(1, 15),
               "min_samples_split": sp_randint(2, 11),
               "bootstrap": [True, False],
               "criterion": ["gini", "entropy"]}
@@ -98,8 +103,8 @@ if __name__ == "__main__":
 
 
 
-    test = joined_stats[joined_stats["Name"] == "Astralis"]
-    test_op = joined_stats[joined_stats["Name"] == "Liquid"]
+    test = joined_stats[joined_stats["Name"] == "HAVU"]
+    test_op = joined_stats[joined_stats["Name"] == "x6tence"]
     len(test) > 0 and len(test_op) > 0
 
     l3 = opt_rf.predict_proba(np.array([
@@ -114,8 +119,9 @@ if __name__ == "__main__":
             test["l3won"].mean(),
             test_op["l3won"].mean(),
             test["l3lost"].mean(),
-            test_op["l3lost"].mean()
-            ,
+            test_op["l3lost"].mean(),
+            test["rating"].mean(),
+            test_op["rating"].mean()
              ]).reshape(1,-1))
 
     print(l3)

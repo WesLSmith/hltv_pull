@@ -97,8 +97,9 @@ def pastResults(team_url):
 def individualMatch():
     return
 
-def cleanCoreStats(core_stats):
-    core_stats = pd.merge(core_stats. rating, on ='team' )
+def cleanCoreStats(core_stats, rating):
+
+    core_stats = pd.merge(core_stats, rating, right_on = 'team', left_on='Name')
     core_stats["Win"] = core_stats["wdl"].apply(lambda x:x[0])
     core_stats["Tie"] = core_stats["wdl"].apply(lambda x:x[1])
     core_stats["Loss"] = core_stats["wdl"].apply(lambda x:x[2])
@@ -137,13 +138,15 @@ if __name__ == "__main__":
 
     core_stats = cleanCoreStats(core_stats, rating)
     match_stats = cleanMatchStats(match_stats)
+    core_stats = core_stats.drop(['team'], axis = 1)
 
     lag3 = match_stats.groupby("team").head(3).groupby("team")["roundsWon","roundsLost"].sum().reset_index()
+
     lag3.columns = ["team", 'l3won', 'l3lost']
     core_stats = pd.merge(core_stats, lag3, left_on = "Name", right_on = "team")
     core_stats = core_stats.drop(['team'], axis = 1)
 
     core_stats
 
-    match_stats.to_csv(r"C:\Users\Wesley Smith\Desktop\csgobetting\hltv_pull\matchstats.csv")
-    core_stats.to_csv(r"C:\Users\Wesley Smith\Desktop\csgobetting\hltv_pull\teamstats.csv")
+    match_stats.to_csv(r"C:\Users\wsmith\Desktop\personalDFS\csgo\hltv_pull\matchstats.csv")
+    core_stats.to_csv(r"C:\Users\wsmith\Desktop\personalDFS\csgo\hltv_pull\teamstats.csv")

@@ -1,272 +1,312 @@
-,Name,kdr,maps_played,roundsPerMap,rounds_played,url,Win,Tie,Loss,l3won,l3lost
-0,Grayhound,1.24,126,24.642857142857142,3105,https://www.hltv.org//stats/teams/8008/Grayhound?startDate=2018-05-19&endDate=2018-11-19,98,0,28,41,37
-1,Astralis,1.21,126,25.841269841269842,3256,https://www.hltv.org//stats/teams/6665/Astralis?startDate=2018-05-19&endDate=2018-11-19,103,0,23,47,44
-2,Entity,1.16,32,26.0,832,https://www.hltv.org//stats/teams/7348/Entity?startDate=2018-05-19&endDate=2018-11-19,21,0,11,48,35
-3,Vitality,1.2,33,25.0,825,https://www.hltv.org//stats/teams/9565/Vitality?startDate=2018-05-19&endDate=2018-11-19,25,0,8,44,30
-4,TeamOne,1.15,130,25.20769230769231,3277,https://www.hltv.org//stats/teams/6947/TeamOne?startDate=2018-05-19&endDate=2018-11-19,85,0,45,44,23
-5,Valiance,1.1,141,26.78014184397163,3776,https://www.hltv.org//stats/teams/8481/Valiance?startDate=2018-05-19&endDate=2018-11-19,81,1,59,46,29
-6,SK,1.07,30,26.266666666666666,788,https://www.hltv.org//stats/teams/6137/SK?startDate=2018-05-19&endDate=2018-11-19,20,0,10,43,36
-7,Dignitas,1.11,65,26.015384615384615,1691,https://www.hltv.org//stats/teams/5422/Dignitas?startDate=2018-05-19&endDate=2018-11-19,43,0,22,46,44
-8,Uniquestars,1.06,23,25.26086956521739,581,https://www.hltv.org//stats/teams/7739/Uniquestars?startDate=2018-05-19&endDate=2018-11-19,14,0,9,48,25
-9,OpTic India,1.13,22,25.363636363636363,558,https://www.hltv.org//stats/teams/9167/OpTic%20India?startDate=2018-05-19&endDate=2018-11-19,17,0,5,52,31
-10,Tainted Minds,1.11,116,24.836206896551722,2881,https://www.hltv.org//stats/teams/7517/Tainted%20Minds?startDate=2018-05-19&endDate=2018-11-19,77,0,39,46,30
-11,ORDER,1.16,141,25.340425531914892,3573,https://www.hltv.org//stats/teams/8668/ORDER?startDate=2018-05-19&endDate=2018-11-19,98,0,43,48,19
-12,Virtue,1.22,50,25.42,1271,https://www.hltv.org//stats/teams/7830/Virtue?startDate=2018-05-19&endDate=2018-11-19,38,2,10,48,25
-13,FURIA,1.1,77,25.103896103896105,1933,https://www.hltv.org//stats/teams/8297/FURIA?startDate=2018-05-19&endDate=2018-11-19,47,2,28,48,13
-14,5POWER,1.09,91,25.978021978021978,2364,https://www.hltv.org//stats/teams/7092/5POWER?startDate=2018-05-19&endDate=2018-11-19,56,0,35,40,42
-15,Beyond,1.1,85,25.011764705882353,2126,https://www.hltv.org//stats/teams/8262/Beyond?startDate=2018-05-19&endDate=2018-11-19,50,0,35,48,33
-16,HAVU,1.12,138,25.840579710144926,3566,https://www.hltv.org//stats/teams/7865/HAVU?startDate=2018-05-19&endDate=2018-11-19,90,0,48,48,18
-17,MIBR,1.13,109,25.889908256880734,2822,https://www.hltv.org//stats/teams/9215/MIBR?startDate=2018-05-19&endDate=2018-11-19,71,1,37,48,20
-18,Não Tem Como,1.0,24,24.541666666666668,589,https://www.hltv.org//stats/teams/6267/N%C3%A3o%20Tem%20Como?startDate=2018-05-19&endDate=2018-11-19,12,0,12,37,35
-19,ViCi,1.15,33,26.363636363636363,870,https://www.hltv.org//stats/teams/7606/ViCi?startDate=2018-05-19&endDate=2018-11-19,26,0,7,48,26
-20,Imperial,1.11,52,25.807692307692307,1342,https://www.hltv.org//stats/teams/9455/Imperial?startDate=2018-05-19&endDate=2018-11-19,36,0,16,28,36
-21,Imperial,1.07,91,25.802197802197803,2348,https://www.hltv.org//stats/teams/7701/Imperial?startDate=2018-05-19&endDate=2018-11-19,56,0,35,28,36
-22,Vision,1.05,87,26.057471264367816,2267,https://www.hltv.org//stats/teams/9227/Vision?startDate=2018-05-19&endDate=2018-11-19,48,0,39,37,35
-23,Bpro,1.1,100,25.89,2589,https://www.hltv.org//stats/teams/6762/Bpro?startDate=2018-05-19&endDate=2018-11-19,69,0,31,39,40
-24,Ignite,1.07,27,26.0,702,https://www.hltv.org//stats/teams/8706/Ignite?startDate=2018-05-19&endDate=2018-11-19,15,0,12,48,41
-25,Natus Vincere,1.1,127,26.22047244094488,3330,https://www.hltv.org//stats/teams/4608/Natus%20Vincere?startDate=2018-05-19&endDate=2018-11-19,82,0,45,27,42
-26,PAPERPLANES,1.03,18,26.0,468,https://www.hltv.org//stats/teams/8997/PAPERPLANES?startDate=2018-05-19&endDate=2018-11-19,9,0,9,36,41
-27,BOOT-d[S],1.1,119,25.58823529411765,3045,https://www.hltv.org//stats/teams/7567/BOOT-d%5BS%5D?startDate=2018-05-19&endDate=2018-11-19,71,0,48,37,39
-28,Wild,1.1,116,25.5,2958,https://www.hltv.org//stats/teams/8895/Wild?startDate=2018-05-19&endDate=2018-11-19,72,0,44,48,35
-29,Vireo.pro,1.02,68,25.808823529411764,1755,https://www.hltv.org//stats/teams/9161/Vireo.pro?startDate=2018-05-19&endDate=2018-11-19,37,0,31,29,48
-30,CyberZen,1.08,108,26.37962962962963,2849,https://www.hltv.org//stats/teams/6503/CyberZen?startDate=2018-05-19&endDate=2018-11-19,68,0,40,48,18
-31,cantwinalan,1.09,26,26.653846153846153,693,https://www.hltv.org//stats/teams/9515/cantwinalan?startDate=2018-05-19&endDate=2018-11-19,16,1,9,60,42
-32,Swole Patrol,1.13,154,25.51298701298701,3929,https://www.hltv.org//stats/teams/7726/Swole%20Patrol?startDate=2018-05-19&endDate=2018-11-19,100,0,54,48,22
-33,Renegades,1.03,112,26.633928571428573,2983,https://www.hltv.org//stats/teams/6211/Renegades?startDate=2018-05-19&endDate=2018-11-19,64,0,48,46,48
-34,NRG,1.09,145,26.075862068965517,3781,https://www.hltv.org//stats/teams/6673/NRG?startDate=2018-05-19&endDate=2018-11-19,95,0,50,54,33
-35,MVP PK,1.1,99,25.2020202020202,2495,https://www.hltv.org//stats/teams/7354/MVP%20PK?startDate=2018-05-19&endDate=2018-11-19,64,0,35,48,15
-36,Windigo,1.03,146,26.315068493150687,3842,https://www.hltv.org//stats/teams/8513/Windigo?startDate=2018-05-19&endDate=2018-11-19,89,1,56,29,37
-37,ENCE,1.09,148,26.655405405405407,3945,https://www.hltv.org//stats/teams/4869/ENCE?startDate=2018-05-19&endDate=2018-11-19,96,0,52,41,55
-38,ownage,1.24,18,22.944444444444443,413,https://www.hltv.org//stats/teams/5670/ownage?startDate=2018-05-19&endDate=2018-11-19,14,0,4,48,17
-39,warmup,1.01,17,24.470588235294116,416,https://www.hltv.org//stats/teams/9246/warmup?startDate=2018-05-19&endDate=2018-11-19,8,0,9,40,39
-40,1337HUANIA,1.04,20,25.5,510,https://www.hltv.org//stats/teams/7552/1337HUANIA?startDate=2018-05-19&endDate=2018-11-19,12,0,8,30,38
-41,Invictus,0.96,17,25.941176470588236,441,https://www.hltv.org//stats/teams/7231/Invictus?startDate=2018-05-19&endDate=2018-11-19,8,0,9,31,46
-42,Gorilla Gang,1.05,85,24.71764705882353,2101,https://www.hltv.org//stats/teams/8880/Gorilla%20Gang?startDate=2018-05-19&endDate=2018-11-19,50,0,35,45,33
-43,Kinguin,1.08,154,27.051948051948052,4166,https://www.hltv.org//stats/teams/6134/Kinguin?startDate=2018-05-19&endDate=2018-11-19,98,0,56,46,36
-44,Great Danes,0.97,29,26.517241379310345,769,https://www.hltv.org//stats/teams/8971/Great%20Danes?startDate=2018-05-19&endDate=2018-11-19,11,0,18,26,48
-45,fish123,1.11,19,25.0,475,https://www.hltv.org//stats/teams/6298/fish123?startDate=2018-05-19&endDate=2018-11-19,13,0,6,44,21
-46,FYB,1.05,20,26.4,528,https://www.hltv.org//stats/teams/9160/FYB?startDate=2018-05-19&endDate=2018-11-19,14,0,6,51,36
-47,NASR,1.04,35,25.142857142857142,880,https://www.hltv.org//stats/teams/8211/NASR?startDate=2018-05-19&endDate=2018-11-19,20,0,15,41,54
-48,GoldenGitte,1.11,17,26.11764705882353,444,https://www.hltv.org//stats/teams/8716/GoldenGitte?startDate=2018-05-19&endDate=2018-11-19,10,0,7,45,28
-49,Spacestation,0.99,48,24.979166666666668,1199,https://www.hltv.org//stats/teams/9566/Spacestation?startDate=2018-05-19&endDate=2018-11-19,23,1,24,23,48
-50,AVANGAR,1.1,133,25.781954887218046,3429,https://www.hltv.org//stats/teams/8120/AVANGAR?startDate=2018-05-19&endDate=2018-11-19,88,0,45,49,49
-51,Signature,1.02,55,24.581818181818182,1352,https://www.hltv.org//stats/teams/6774/Signature?startDate=2018-05-19&endDate=2018-11-19,30,0,25,37,44
-52,iNTACT,1.08,37,26.56756756756757,983,https://www.hltv.org//stats/teams/9176/iNTACT?startDate=2018-05-19&endDate=2018-11-19,17,0,20,27,36
-53,INTZ,1.07,63,25.666666666666668,1617,https://www.hltv.org//stats/teams/6619/INTZ?startDate=2018-05-19&endDate=2018-11-19,36,0,27,44,29
-54,Liquid,1.08,135,25.474074074074075,3439,https://www.hltv.org//stats/teams/5973/Liquid?startDate=2018-05-19&endDate=2018-11-19,79,0,56,42,32
-55,F1-racecar-PEEK,0.97,24,24.666666666666668,592,https://www.hltv.org//stats/teams/8602/F1-racecar-PEEK?startDate=2018-05-19&endDate=2018-11-19,14,0,10,21,42
-56,Chaos,1.01,57,26.42105263157895,1506,https://www.hltv.org//stats/teams/9085/Chaos?startDate=2018-05-19&endDate=2018-11-19,25,0,32,41,27
-57,forZe,1.08,138,26.115942028985508,3604,https://www.hltv.org//stats/teams/8135/forZe?startDate=2018-05-19&endDate=2018-11-19,81,0,57,37,37
-58,BlackOut,1.05,58,25.46551724137931,1477,https://www.hltv.org//stats/teams/8700/BlackOut?startDate=2018-05-19&endDate=2018-11-19,36,0,22,29,48
-59,Giants,1.06,52,25.403846153846153,1321,https://www.hltv.org//stats/teams/4949/Giants?startDate=2018-05-19&endDate=2018-11-19,31,0,21,42,26
-60,pro100,1.06,106,25.81132075471698,2736,https://www.hltv.org//stats/teams/7898/pro100?startDate=2018-05-19&endDate=2018-11-19,61,0,45,43,33
-61,Spirit,1.06,116,25.344827586206897,2940,https://www.hltv.org//stats/teams/7020/Spirit?startDate=2018-05-19&endDate=2018-11-19,66,0,50,46,32
-62,AZIO,1.01,60,25.066666666666666,1504,https://www.hltv.org//stats/teams/8718/AZIO?startDate=2018-05-19&endDate=2018-11-19,31,0,29,22,48
-63,Defusekids,1.04,16,24.0,384,https://www.hltv.org//stats/teams/7666/Defusekids?startDate=2018-05-19&endDate=2018-11-19,11,0,5,25,40
-64,ex-Atmosphere,0.93,23,25.391304347826086,584,https://www.hltv.org//stats/teams/9038/ex-Atmosphere?startDate=2018-05-19&endDate=2018-11-19,7,0,16,31,51
-65,SkitLite,0.91,17,27.352941176470587,465,https://www.hltv.org//stats/teams/6263/SkitLite?startDate=2018-05-19&endDate=2018-11-19,5,0,12,21,48
-66,Freedom 35,1.02,34,25.058823529411764,852,https://www.hltv.org//stats/teams/8744/Freedom%2035?startDate=2018-05-19&endDate=2018-11-19,20,0,14,40,45
-67,The Pioneers,0.94,38,25.342105263157894,963,https://www.hltv.org//stats/teams/9014/The%20Pioneers?startDate=2018-05-19&endDate=2018-11-19,19,0,19,37,39
-68,FURIA Inagame,1.04,68,25.647058823529413,1744,https://www.hltv.org//stats/teams/8885/FURIA%20Inagame?startDate=2018-05-19&endDate=2018-11-19,34,0,34,48,54
-69,Universe,1.02,16,25.6875,411,https://www.hltv.org//stats/teams/7442/Universe?startDate=2018-05-19&endDate=2018-11-19,8,0,8,20,48
-70,LDLC,1.07,162,26.728395061728396,4330,https://www.hltv.org//stats/teams/4674/LDLC?startDate=2018-05-19&endDate=2018-11-19,103,0,59,35,38
-71,Mythic,1.06,93,25.903225806451612,2409,https://www.hltv.org//stats/teams/5479/Mythic?startDate=2018-05-19&endDate=2018-11-19,52,0,41,41,47
-72,compLexity,1.05,155,26.045161290322582,4037,https://www.hltv.org//stats/teams/5005/compLexity?startDate=2018-05-19&endDate=2018-11-19,88,0,67,44,51
-73,North,1.06,161,26.41614906832298,4253,https://www.hltv.org//stats/teams/7533/North?startDate=2018-05-19&endDate=2018-11-19,102,0,59,25,39
-74,3DMAX,1.04,138,26.166666666666668,3611,https://www.hltv.org//stats/teams/4914/3DMAX?startDate=2018-05-19&endDate=2018-11-19,82,0,56,45,40
-75,Sprout,1.02,133,26.654135338345863,3545,https://www.hltv.org//stats/teams/8637/Sprout?startDate=2018-05-19&endDate=2018-11-19,70,0,63,51,33
-76,Isurus,1.04,138,26.340579710144926,3635,https://www.hltv.org//stats/teams/7653/Isurus?startDate=2018-05-19&endDate=2018-11-19,83,0,55,48,30
-77,PRIDE,0.88,40,25.5,1020,https://www.hltv.org//stats/teams/6896/PRIDE?startDate=2018-05-19&endDate=2018-11-19,15,0,25,48,37
-78,k1ck,1.04,57,26.36842105263158,1503,https://www.hltv.org//stats/teams/4469/k1ck?startDate=2018-05-19&endDate=2018-11-19,32,0,25,34,47
-79,RESOLUTE,1.13,22,24.59090909090909,541,https://www.hltv.org//stats/teams/9228/RESOLUTE?startDate=2018-05-19&endDate=2018-11-19,12,0,10,51,36
-80,Endpoint,1.03,122,26.57377049180328,3242,https://www.hltv.org//stats/teams/7234/Endpoint?startDate=2018-05-19&endDate=2018-11-19,65,0,57,38,30
-81,Lyngby Vikings,1.01,20,24.15,483,https://www.hltv.org//stats/teams/8963/Lyngby%20Vikings?startDate=2018-05-19&endDate=2018-11-19,10,0,10,25,34
-82,GoodJob,1.05,73,26.383561643835616,1926,https://www.hltv.org//stats/teams/7820/GoodJob?startDate=2018-05-19&endDate=2018-11-19,42,0,31,30,43
-83,W7M,1.06,134,26.0,3484,https://www.hltv.org//stats/teams/8574/W7M?startDate=2018-05-19&endDate=2018-11-19,74,0,60,45,30
-84,Movistar Riders,1.03,83,26.048192771084338,2162,https://www.hltv.org//stats/teams/7718/Movistar%20Riders?startDate=2018-05-19&endDate=2018-11-19,45,0,38,38,33
-85,KoN Denmark,0.98,27,26.296296296296298,710,https://www.hltv.org//stats/teams/6417/KoN%20Denmark?startDate=2018-05-19&endDate=2018-11-19,13,0,14,45,35
-86,FrostFire,1.04,50,26.16,1308,https://www.hltv.org//stats/teams/9032/FrostFire?startDate=2018-05-19&endDate=2018-11-19,33,0,17,48,33
-87,Dignitas fe,0.98,21,26.19047619047619,550,https://www.hltv.org//stats/teams/7640/Dignitas%20fe?startDate=2018-05-19&endDate=2018-11-19,11,0,10,31,46
-88,Test Takers,1.0,24,24.625,591,https://www.hltv.org//stats/teams/9400/Test%20Takers?startDate=2018-05-19&endDate=2018-11-19,14,0,10,48,31
-89,Evilvice,1.09,24,27.791666666666668,667,https://www.hltv.org//stats/teams/8366/Evilvice?startDate=2018-05-19&endDate=2018-11-19,17,0,7,43,39
-90,Chiefs,1.12,169,24.928994082840237,4213,https://www.hltv.org//stats/teams/6010/Chiefs?startDate=2018-05-19&endDate=2018-11-19,122,0,47,34,39
-91,HellRaisers,1.03,133,26.225563909774436,3488,https://www.hltv.org//stats/teams/5310/HellRaisers?startDate=2018-05-19&endDate=2018-11-19,75,0,58,51,53
-92,Nexus,1.02,92,25.08695652173913,2308,https://www.hltv.org//stats/teams/7187/Nexus?startDate=2018-05-19&endDate=2018-11-19,53,0,39,41,42
-93,Squared,1.03,48,25.416666666666668,1220,https://www.hltv.org//stats/teams/7669/Squared?startDate=2018-05-19&endDate=2018-11-19,28,0,20,48,24
-94,Wind and Rain,1.05,26,25.076923076923077,652,https://www.hltv.org//stats/teams/8823/Wind%20and%20Rain?startDate=2018-05-19&endDate=2018-11-19,13,0,13,48,25
-95,eUnited,1.01,139,25.58273381294964,3556,https://www.hltv.org//stats/teams/7106/eUnited?startDate=2018-05-19&endDate=2018-11-19,71,0,68,44,49
-96,Atlants,1.01,41,24.951219512195124,1023,https://www.hltv.org//stats/teams/9120/Atlants?startDate=2018-05-19&endDate=2018-11-19,21,0,20,48,21
-97,YeaH!,1.04,87,25.528735632183906,2221,https://www.hltv.org//stats/teams/8728/YeaH%21?startDate=2018-05-19&endDate=2018-11-19,50,0,37,25,44
-98,NOBO,1.1,35,26.37142857142857,923,https://www.hltv.org//stats/teams/9099/NOBO?startDate=2018-05-19&endDate=2018-11-19,23,0,12,48,36
-99,VG.Flash,0.93,44,25.522727272727273,1123,https://www.hltv.org//stats/teams/9037/VG.Flash?startDate=2018-05-19&endDate=2018-11-19,18,0,26,37,45
-100,Epsilon,1.03,111,25.64864864864865,2847,https://www.hltv.org//stats/teams/4688/Epsilon?startDate=2018-05-19&endDate=2018-11-19,55,0,56,40,45
-101,Ignis,1.05,33,25.272727272727273,834,https://www.hltv.org//stats/teams/9105/Ignis?startDate=2018-05-19&endDate=2018-11-19,16,0,17,48,15
-102,KoN Sweden,1.2,20,25.8,516,https://www.hltv.org//stats/teams/6418/KoN%20Sweden?startDate=2018-05-19&endDate=2018-11-19,16,0,4,48,32
-103,GODSENT,0.99,21,24.19047619047619,508,https://www.hltv.org//stats/teams/6902/GODSENT?startDate=2018-05-19&endDate=2018-11-19,10,0,11,39,46
-104,Nemiga,0.96,43,27.0,1161,https://www.hltv.org//stats/teams/7969/Nemiga?startDate=2018-05-19&endDate=2018-11-19,19,0,24,42,29
-105,Singularity,1.0,68,25.41176470588235,1728,https://www.hltv.org//stats/teams/6978/Singularity?startDate=2018-05-19&endDate=2018-11-19,37,0,31,43,43
-106,FLuffy Gangsters,0.96,23,26.608695652173914,612,https://www.hltv.org//stats/teams/6668/FLuffy%20Gangsters?startDate=2018-05-19&endDate=2018-11-19,10,0,13,29,34
-107,BIG,1.04,97,26.95876288659794,2615,https://www.hltv.org//stats/teams/7532/BIG?startDate=2018-05-19&endDate=2018-11-19,53,0,44,48,32
-108,COVE,0.99,19,24.94736842105263,474,https://www.hltv.org//stats/teams/9366/COVE?startDate=2018-05-19&endDate=2018-11-19,9,0,10,48,21
-109,DETONA,1.02,84,25.404761904761905,2134,https://www.hltv.org//stats/teams/8902/DETONA?startDate=2018-05-19&endDate=2018-11-19,45,0,39,38,36
-110,TNC,1.03,64,25.03125,1602,https://www.hltv.org//stats/teams/5257/TNC?startDate=2018-05-19&endDate=2018-11-19,35,0,29,48,30
-111,Legacy,1.0,121,25.181818181818183,3047,https://www.hltv.org//stats/teams/6468/Legacy?startDate=2018-05-19&endDate=2018-11-19,62,0,59,23,48
-112,Bravado,1.02,126,25.26984126984127,3184,https://www.hltv.org//stats/teams/5158/Bravado?startDate=2018-05-19&endDate=2018-11-19,73,0,53,47,43
-113,EURONICS,1.02,188,26.329787234042552,4950,https://www.hltv.org//stats/teams/6343/EURONICS?startDate=2018-05-19&endDate=2018-11-19,99,0,89,26,48
-114,Japaleno,1.13,45,25.4,1143,https://www.hltv.org//stats/teams/7144/Japaleno?startDate=2018-05-19&endDate=2018-11-19,29,0,16,43,38
-115,Ghost,1.02,92,26.119565217391305,2403,https://www.hltv.org//stats/teams/7801/Ghost?startDate=2018-05-19&endDate=2018-11-19,55,0,37,46,40
-116,Tempo Storm,0.95,61,25.721311475409838,1569,https://www.hltv.org//stats/teams/6118/Tempo%20Storm?startDate=2018-05-19&endDate=2018-11-19,26,0,35,43,39
-117,fnatic Academy,0.99,72,25.59722222222222,1843,https://www.hltv.org//stats/teams/7169/fnatic%20Academy?startDate=2018-05-19&endDate=2018-11-19,37,0,35,51,42
-118,Red Reserve,1.03,102,27.294117647058822,2784,https://www.hltv.org//stats/teams/7613/Red%20Reserve?startDate=2018-05-19&endDate=2018-11-19,57,0,45,48,25
-119,Santos,0.93,35,25.6,896,https://www.hltv.org//stats/teams/9213/Santos?startDate=2018-05-19&endDate=2018-11-19,14,0,21,31,48
-120,OpTic,1.04,154,26.5,4081,https://www.hltv.org//stats/teams/6615/OpTic?startDate=2018-05-19&endDate=2018-11-19,86,0,68,42,32
-121,mousesports,1.05,131,25.72519083969466,3370,https://www.hltv.org//stats/teams/4494/mousesports?startDate=2018-05-19&endDate=2018-11-19,72,0,59,48,23
-122,Sharks,1.01,92,25.91304347826087,2384,https://www.hltv.org//stats/teams/8113/Sharks?startDate=2018-05-19&endDate=2018-11-19,52,0,40,32,46
-123,HEXAGONE,1.02,17,27.11764705882353,461,https://www.hltv.org//stats/teams/7463/HEXAGONE?startDate=2018-05-19&endDate=2018-11-19,8,0,9,44,40
-124,Malvinas,0.98,29,24.724137931034484,717,https://www.hltv.org//stats/teams/8121/Malvinas?startDate=2018-05-19&endDate=2018-11-19,15,0,14,32,42
-125,HOLLYWOOD,1.01,57,26.280701754385966,1498,https://www.hltv.org//stats/teams/8847/HOLLYWOOD?startDate=2018-05-19&endDate=2018-11-19,26,0,31,28,41
-126,Andes,0.99,40,26.775,1071,https://www.hltv.org//stats/teams/8825/Andes?startDate=2018-05-19&endDate=2018-11-19,16,0,24,46,32
-127,OFFSET,0.95,29,26.24137931034483,761,https://www.hltv.org//stats/teams/8515/OFFSET?startDate=2018-05-19&endDate=2018-11-19,14,0,15,47,34
-128,Monolith,0.95,54,26.537037037037038,1433,https://www.hltv.org//stats/teams/9182/Monolith?startDate=2018-05-19&endDate=2018-11-19,21,0,33,42,53
-129,TYLOO,1.01,106,26.17924528301887,2775,https://www.hltv.org//stats/teams/4863/TYLOO?startDate=2018-05-19&endDate=2018-11-19,61,0,45,45,34
-130,NiP,1.01,127,26.20472440944882,3328,https://www.hltv.org//stats/teams/4411/NiP?startDate=2018-05-19&endDate=2018-11-19,66,2,59,41,45
-131,WE HAWT,0.99,16,24.5625,393,https://www.hltv.org//stats/teams/8882/WE%20HAWT?startDate=2018-05-19&endDate=2018-11-19,7,0,9,35,39
-132,QuestionMark,0.99,22,25.818181818181817,568,https://www.hltv.org//stats/teams/9236/QuestionMark?startDate=2018-05-19&endDate=2018-11-19,10,0,12,41,39
-133,ALTERNATE aTTaX,1.02,134,26.402985074626866,3538,https://www.hltv.org//stats/teams/4501/ALTERNATE%20aTTaX?startDate=2018-05-19&endDate=2018-11-19,71,0,63,19,48
-134,aAa,0.92,49,26.775510204081634,1312,https://www.hltv.org//stats/teams/5639/aAa?startDate=2018-05-19&endDate=2018-11-19,20,0,29,20,48
-135,Winstrike,0.98,85,26.58823529411765,2260,https://www.hltv.org//stats/teams/9183/Winstrike?startDate=2018-05-19&endDate=2018-11-19,44,0,41,46,35
-136,Flash,1.0,76,25.19736842105263,1915,https://www.hltv.org//stats/teams/7660/Flash?startDate=2018-05-19&endDate=2018-11-19,39,0,37,41,40
-137,unknown,1.01,42,26.666666666666668,1120,https://www.hltv.org//stats/teams/9214/unknown?startDate=2018-05-19&endDate=2018-11-19,23,0,19,30,46
-138,AGO,1.0,167,26.389221556886227,4407,https://www.hltv.org//stats/teams/8068/AGO?startDate=2018-05-19&endDate=2018-11-19,86,0,81,48,31
-139,ex-Velocity,0.85,18,24.77777777777778,446,https://www.hltv.org//stats/teams/9485/ex-Velocity?startDate=2018-05-19&endDate=2018-11-19,5,0,13,49,45
-140,LeftOut,1.01,24,26.916666666666668,646,https://www.hltv.org//stats/teams/9211/LeftOut?startDate=2018-05-19&endDate=2018-11-19,10,0,14,25,48
-141,x-kom,0.99,110,26.4,2904,https://www.hltv.org//stats/teams/8846/x-kom?startDate=2018-05-19&endDate=2018-11-19,54,0,56,38,46
-142,fightclub,0.93,20,25.05,501,https://www.hltv.org//stats/teams/7823/fightclub?startDate=2018-05-19&endDate=2018-11-19,9,0,11,22,48
-143,expert,0.93,42,26.80952380952381,1126,https://www.hltv.org//stats/teams/9393/expert?startDate=2018-05-19&endDate=2018-11-19,17,0,25,48,39
-144,seadoggs,0.84,31,23.225806451612904,720,https://www.hltv.org//stats/teams/8435/seadoggs?startDate=2018-05-19&endDate=2018-11-19,11,0,20,27,37
-145,Tricked,1.01,113,25.72566371681416,2907,https://www.hltv.org//stats/teams/4602/Tricked?startDate=2018-05-19&endDate=2018-11-19,59,0,54,39,30
-146,Alpha Red,1.0,31,24.677419354838708,765,https://www.hltv.org//stats/teams/8848/Alpha%20Red?startDate=2018-05-19&endDate=2018-11-19,18,0,13,37,33
-147,MiTH,0.97,28,26.178571428571427,733,https://www.hltv.org//stats/teams/6353/MiTH?startDate=2018-05-19&endDate=2018-11-19,15,0,13,48,50
-148,DreamEaters,0.99,116,26.99137931034483,3131,https://www.hltv.org//stats/teams/8305/DreamEaters?startDate=2018-05-19&endDate=2018-11-19,52,0,64,42,36
-149,Bull,0.93,19,28.263157894736842,537,https://www.hltv.org//stats/teams/9203/Bull?startDate=2018-05-19&endDate=2018-11-19,7,0,12,37,43
-150,SCARZ Absolute,0.97,59,25.677966101694917,1515,https://www.hltv.org//stats/teams/7962/SCARZ%20Absolute?startDate=2018-05-19&endDate=2018-11-19,27,0,32,43,33
-151,Furious,1.02,54,26.09259259259259,1409,https://www.hltv.org//stats/teams/6799/Furious?startDate=2018-05-19&endDate=2018-11-19,31,0,23,48,14
-152,x6tence Galaxy,0.98,48,25.958333333333332,1246,https://www.hltv.org//stats/teams/9481/x6tence%20Galaxy?startDate=2018-05-19&endDate=2018-11-19,23,0,25,45,36
-153,Luminosity,0.98,130,25.83076923076923,3358,https://www.hltv.org//stats/teams/6290/Luminosity?startDate=2018-05-19&endDate=2018-11-19,56,0,74,42,40
-154,PACT,0.99,103,27.04854368932039,2786,https://www.hltv.org//stats/teams/8248/PACT?startDate=2018-05-19&endDate=2018-11-19,49,0,54,39,39
-155,2ez,0.94,25,25.76,644,https://www.hltv.org//stats/teams/8460/2ez?startDate=2018-05-19&endDate=2018-11-19,12,0,13,45,41
-156,SYF,0.99,64,25.0,1600,https://www.hltv.org//stats/teams/5607/SYF?startDate=2018-05-19&endDate=2018-11-19,31,0,33,40,47
-157,Gambit,0.98,108,26.47222222222222,2859,https://www.hltv.org//stats/teams/6651/Gambit?startDate=2018-05-19&endDate=2018-11-19,48,0,60,22,48
-158,Lucid Dream,0.99,61,25.75409836065574,1571,https://www.hltv.org//stats/teams/8680/Lucid%20Dream?startDate=2018-05-19&endDate=2018-11-19,29,0,32,35,48
-159,ArkAngel,0.99,25,24.88,622,https://www.hltv.org//stats/teams/8633/ArkAngel?startDate=2018-05-19&endDate=2018-11-19,8,0,17,42,40
-160,Dragons,1.06,16,25.75,412,https://www.hltv.org//stats/teams/9086/Dragons?startDate=2018-05-19&endDate=2018-11-19,9,0,7,48,25
-161,Infamous,0.99,57,25.789473684210527,1470,https://www.hltv.org//stats/teams/9379/Infamous?startDate=2018-05-19&endDate=2018-11-19,31,0,26,37,45
-162,Excelerate,1.0,33,24.848484848484848,820,https://www.hltv.org//stats/teams/9306/Excelerate?startDate=2018-05-19&endDate=2018-11-19,15,0,18,25,48
-163,EHOME,1.0,63,25.49206349206349,1606,https://www.hltv.org//stats/teams/7024/EHOME?startDate=2018-05-19&endDate=2018-11-19,27,0,36,23,48
-164,GOSU,0.99,58,25.379310344827587,1472,https://www.hltv.org//stats/teams/8852/GOSU?startDate=2018-05-19&endDate=2018-11-19,26,0,32,40,41
-165,Recca,0.98,25,24.96,624,https://www.hltv.org//stats/teams/7344/Recca?startDate=2018-05-19&endDate=2018-11-19,14,0,11,32,36
-166,SuperJymy,0.98,126,27.396825396825395,3452,https://www.hltv.org//stats/teams/8504/SuperJymy?startDate=2018-05-19&endDate=2018-11-19,56,0,70,37,44
-167,The Entourage,0.9,24,27.166666666666668,652,https://www.hltv.org//stats/teams/8623/The%20Entourage?startDate=2018-05-19&endDate=2018-11-19,12,0,12,38,46
-168,Hysteria,0.96,27,26.14814814814815,706,https://www.hltv.org//stats/teams/9003/Hysteria?startDate=2018-05-19&endDate=2018-11-19,12,0,15,28,48
-169,GTZ-Bulls,0.97,16,25.125,402,https://www.hltv.org//stats/teams/9466/GTZ-Bulls?startDate=2018-05-19&endDate=2018-11-19,6,0,10,36,48
-170,Rogue,1.03,101,26.22772277227723,2649,https://www.hltv.org//stats/teams/7157/Rogue?startDate=2018-05-19&endDate=2018-11-19,51,0,50,45,40
-171,FaZe,1.02,122,25.84426229508197,3153,https://www.hltv.org//stats/teams/6667/FaZe?startDate=2018-05-19&endDate=2018-11-19,63,1,58,26,47
-172,Syman,0.99,82,26.951219512195124,2210,https://www.hltv.org//stats/teams/8772/Syman?startDate=2018-05-19&endDate=2018-11-19,43,0,39,48,14
-173,PITS,0.98,24,26.708333333333332,641,https://www.hltv.org//stats/teams/9265/PITS?startDate=2018-05-19&endDate=2018-11-19,12,0,12,40,55
-174,FriendlyFire,1.04,27,26.185185185185187,707,https://www.hltv.org//stats/teams/9062/FriendlyFire?startDate=2018-05-19&endDate=2018-11-19,14,0,13,32,43
-175,tomorrow,1.05,20,27.55,551,https://www.hltv.org//stats/teams/7000/tomorrow?startDate=2018-05-19&endDate=2018-11-19,13,0,7,51,38
-176,Big Frames,1.03,25,24.52,613,https://www.hltv.org//stats/teams/9229/Big%20Frames?startDate=2018-05-19&endDate=2018-11-19,16,0,9,48,24
-177,ex-Space Soldiers,0.92,20,25.7,514,https://www.hltv.org//stats/teams/9572/ex-Space%20Soldiers?startDate=2018-05-19&endDate=2018-11-19,6,0,14,48,37
-178,fnatic,0.92,91,26.494505494505493,2411,https://www.hltv.org//stats/teams/4991/fnatic?startDate=2018-05-19&endDate=2018-11-19,37,0,54,48,39
-179,Vega Squadron,1.0,49,26.918367346938776,1319,https://www.hltv.org//stats/teams/6094/Vega%20Squadron?startDate=2018-05-19&endDate=2018-11-19,26,0,23,37,44
-180,Vault,0.98,53,25.962264150943398,1376,https://www.hltv.org//stats/teams/6366/Vault?startDate=2018-05-19&endDate=2018-11-19,29,0,24,8,48
-181,BOOM,0.97,18,25.38888888888889,457,https://www.hltv.org//stats/teams/7733/BOOM?startDate=2018-05-19&endDate=2018-11-19,9,0,9,48,22
-182,Forty Six and 2,0.97,45,26.244444444444444,1181,https://www.hltv.org//stats/teams/9074/Forty%20Six%20and%202?startDate=2018-05-19&endDate=2018-11-19,18,0,27,38,43
-183,C4,0.98,73,25.972602739726028,1896,https://www.hltv.org//stats/teams/8051/C4?startDate=2018-05-19&endDate=2018-11-19,34,1,38,41,37
-184,Old Guys Club,0.93,19,24.894736842105264,473,https://www.hltv.org//stats/teams/9523/Old%20Guys%20Club?startDate=2018-05-19&endDate=2018-11-19,11,0,8,48,34
-185,Storm Rider,0.97,21,24.714285714285715,519,https://www.hltv.org//stats/teams/9507/Storm%20Rider?startDate=2018-05-19&endDate=2018-11-19,11,0,10,44,36
-186,Breakaway,0.99,54,25.944444444444443,1401,https://www.hltv.org//stats/teams/9484/Breakaway?startDate=2018-05-19&endDate=2018-11-19,23,0,31,18,48
-187,madlikewizards,1.01,74,24.0,1776,https://www.hltv.org//stats/teams/9275/madlikewizards?startDate=2018-05-19&endDate=2018-11-19,43,0,31,22,44
-188,Nordavind,0.98,48,27.708333333333332,1330,https://www.hltv.org//stats/teams/8769/Nordavind?startDate=2018-05-19&endDate=2018-11-19,21,0,27,27,48
-189,PLINK,0.96,75,26.4,1980,https://www.hltv.org//stats/teams/9193/PLINK?startDate=2018-05-19&endDate=2018-11-19,34,0,41,31,46
-190,Space Soldiers,1.0,80,25.7,2056,https://www.hltv.org//stats/teams/5929/Space%20Soldiers?startDate=2018-05-19&endDate=2018-11-19,38,0,42,44,38
-191,Squirtle Squad,0.97,17,26.176470588235293,445,https://www.hltv.org//stats/teams/9053/Squirtle%20Squad?startDate=2018-05-19&endDate=2018-11-19,7,0,10,37,38
-192,Virtus.pro,0.98,136,26.74264705882353,3637,https://www.hltv.org//stats/teams/5378/Virtus.pro?startDate=2018-05-19&endDate=2018-11-19,60,0,76,41,45
-193,EPG,0.91,60,26.016666666666666,1561,https://www.hltv.org//stats/teams/7489/EPG?startDate=2018-05-19&endDate=2018-11-19,20,0,40,29,45
-194,KoN Finland,0.97,20,28.9,578,https://www.hltv.org//stats/teams/6420/KoN%20Finland?startDate=2018-05-19&endDate=2018-11-19,9,0,11,64,65
-195,WASD,0.97,30,26.7,801,https://www.hltv.org//stats/teams/7668/WASD?startDate=2018-05-19&endDate=2018-11-19,10,0,20,37,26
-196,PANTHERS,0.97,33,26.272727272727273,867,https://www.hltv.org//stats/teams/6693/PANTHERS?startDate=2018-05-19&endDate=2018-11-19,15,0,18,51,39
-197,Quantum Bellator Fire,0.96,59,26.135593220338983,1542,https://www.hltv.org//stats/teams/7367/Quantum%20Bellator%20Fire?startDate=2018-05-19&endDate=2018-11-19,22,0,37,44,45
-198,Vikings,0.92,20,26.45,529,https://www.hltv.org//stats/teams/8253/Vikings?startDate=2018-05-19&endDate=2018-11-19,5,0,15,25,37
-199,Izako Boars,0.98,77,26.506493506493506,2041,https://www.hltv.org//stats/teams/7681/Izako%20Boars?startDate=2018-05-19&endDate=2018-11-19,39,0,38,36,41
-200,UltiCoin,0.97,18,25.38888888888889,457,https://www.hltv.org//stats/teams/9376/UltiCoin?startDate=2018-05-19&endDate=2018-11-19,9,0,9,42,33
-201,Heroic,0.96,109,25.91743119266055,2825,https://www.hltv.org//stats/teams/7175/Heroic?startDate=2018-05-19&endDate=2018-11-19,49,0,60,44,33
-202,Space Jam,0.91,20,25.6,512,https://www.hltv.org//stats/teams/7017/Space%20Jam?startDate=2018-05-19&endDate=2018-11-19,9,0,11,37,39
-203,Vindicta,0.96,24,27.166666666666668,652,https://www.hltv.org//stats/teams/7577/Vindicta?startDate=2018-05-19&endDate=2018-11-19,12,0,12,39,43
-204,Flow,0.94,34,26.794117647058822,911,https://www.hltv.org//stats/teams/9427/Flow?startDate=2018-05-19&endDate=2018-11-19,16,0,18,48,28
-205,Clutch Solutions,0.95,16,26.0625,417,https://www.hltv.org//stats/teams/9111/Clutch%20Solutions?startDate=2018-05-19&endDate=2018-11-19,6,0,10,36,40
-206,Rise and Grind,0.98,32,24.09375,771,https://www.hltv.org//stats/teams/8887/Rise%20and%20Grind?startDate=2018-05-19&endDate=2018-11-19,17,0,15,48,28
-207,Smoke Criminals,0.95,52,26.423076923076923,1374,https://www.hltv.org//stats/teams/8369/Smoke%20Criminals?startDate=2018-05-19&endDate=2018-11-19,19,0,33,48,37
-208,ETHEREAL,0.95,42,25.595238095238095,1075,https://www.hltv.org//stats/teams/9277/ETHEREAL?startDate=2018-05-19&endDate=2018-11-19,15,0,27,20,48
-209,AVANT,0.99,74,25.7027027027027,1902,https://www.hltv.org//stats/teams/5293/AVANT?startDate=2018-05-19&endDate=2018-11-19,38,0,36,28,37
-210,Windigo Academy,1.0,20,27.05,541,https://www.hltv.org//stats/teams/8898/Windigo%20Academy?startDate=2018-05-19&endDate=2018-11-19,10,0,10,39,30
-211,Ground Zero,0.95,118,24.93220338983051,2942,https://www.hltv.org//stats/teams/8536/Ground%20Zero?startDate=2018-05-19&endDate=2018-11-19,49,1,68,29,41
-212,WINside,0.89,55,25.727272727272727,1415,https://www.hltv.org//stats/teams/9055/WINside?startDate=2018-05-19&endDate=2018-11-19,19,0,36,34,32
-213,Cloud9,0.96,79,26.88607594936709,2124,https://www.hltv.org//stats/teams/5752/Cloud9?startDate=2018-05-19&endDate=2018-11-19,33,0,46,29,46
-214,Fam143,0.93,50,26.52,1326,https://www.hltv.org//stats/teams/8815/Fam143?startDate=2018-05-19&endDate=2018-11-19,21,0,29,17,48
-215,Fragsters,0.96,112,26.035714285714285,2916,https://www.hltv.org//stats/teams/6855/Fragsters?startDate=2018-05-19&endDate=2018-11-19,54,0,58,35,54
-216,Vyalie Pitoni,0.99,25,26.36,659,https://www.hltv.org//stats/teams/9518/Vyalie%20Pitoni?startDate=2018-05-19&endDate=2018-11-19,13,0,12,51,33
-217,TRIDENT,0.97,63,25.333333333333332,1596,https://www.hltv.org//stats/teams/5290/TRIDENT?startDate=2018-05-19&endDate=2018-11-19,26,0,37,9,48
-218,Prospects,0.82,32,24.34375,779,https://www.hltv.org//stats/teams/6792/Prospects?startDate=2018-05-19&endDate=2018-11-19,8,0,24,41,24
-219,Envy,0.87,40,25.4,1016,https://www.hltv.org//stats/teams/5991/Envy?startDate=2018-05-19&endDate=2018-11-19,11,0,29,37,41
-220,PUGSTAR5,0.95,17,29.941176470588236,509,https://www.hltv.org//stats/teams/9155/PUGSTAR5?startDate=2018-05-19&endDate=2018-11-19,8,0,9,40,39
-221,Unique,1.0,35,25.685714285714287,899,https://www.hltv.org//stats/teams/9287/Unique?startDate=2018-05-19&endDate=2018-11-19,17,0,18,36,39
-222,Dynasty,0.96,49,25.857142857142858,1267,https://www.hltv.org//stats/teams/9272/Dynasty?startDate=2018-05-19&endDate=2018-11-19,17,0,32,35,48
-223,Revoltz,0.95,32,25.8125,826,https://www.hltv.org//stats/teams/9163/Revoltz?startDate=2018-05-19&endDate=2018-11-19,14,0,18,42,33
-224,XCN,0.93,16,25.8125,413,https://www.hltv.org//stats/teams/8626/XCN?startDate=2018-05-19&endDate=2018-11-19,6,0,10,26,51
-225,Codewise Unicorns,0.94,20,25.25,505,https://www.hltv.org//stats/teams/8572/Codewise%20Unicorns?startDate=2018-05-19&endDate=2018-11-19,8,0,12,41,41
-226,Brute,0.94,31,26.838709677419356,832,https://www.hltv.org//stats/teams/9139/Brute?startDate=2018-05-19&endDate=2018-11-19,14,0,17,41,36
-227,RUNUP,1.04,18,27.833333333333332,501,https://www.hltv.org//stats/teams/9118/RUNUP?startDate=2018-05-19&endDate=2018-11-19,12,0,6,41,34
-228,Sparta,1.01,20,25.5,510,https://www.hltv.org//stats/teams/9483/Sparta?startDate=2018-05-19&endDate=2018-11-19,10,0,10,27,45
-229,2990,0.94,16,25.4375,407,https://www.hltv.org//stats/teams/9100/2990?startDate=2018-05-19&endDate=2018-11-19,7,0,9,48,25
-230,Royal Bandits,0.93,45,25.644444444444446,1154,https://www.hltv.org//stats/teams/8263/Royal%20Bandits?startDate=2018-05-19&endDate=2018-11-19,16,0,29,31,43
-231,Glockoma,0.96,28,24.714285714285715,692,https://www.hltv.org//stats/teams/8545/Glockoma?startDate=2018-05-19&endDate=2018-11-19,13,0,15,42,31
-232,Coscu Army,0.88,34,27.147058823529413,923,https://www.hltv.org//stats/teams/8871/Coscu%20Army?startDate=2018-05-19&endDate=2018-11-19,10,0,24,22,48
-233,Underdogs,0.87,18,25.11111111111111,452,https://www.hltv.org//stats/teams/9357/Underdogs?startDate=2018-05-19&endDate=2018-11-19,7,0,11,38,37
-234,Really Old People,0.88,21,24.285714285714285,510,https://www.hltv.org//stats/teams/9102/Really%20Old%20People?startDate=2018-05-19&endDate=2018-11-19,8,0,13,21,39
-235,Grizzlys,0.93,29,23.689655172413794,687,https://www.hltv.org//stats/teams/8748/Grizzlys?startDate=2018-05-19&endDate=2018-11-19,11,0,18,48,21
-236,Conspiracy,0.91,17,25.705882352941178,437,https://www.hltv.org//stats/teams/8436/Conspiracy?startDate=2018-05-19&endDate=2018-11-19,5,0,12,31,40
-237,Avalanche,0.95,26,26.615384615384617,692,https://www.hltv.org//stats/teams/8751/Avalanche?startDate=2018-05-19&endDate=2018-11-19,9,0,17,39,42
-238,anime savants,1.03,17,25.705882352941178,437,https://www.hltv.org//stats/teams/9273/anime%20savants?startDate=2018-05-19&endDate=2018-11-19,9,0,8,29,41
-239,Control,0.91,17,26.823529411764707,456,https://www.hltv.org//stats/teams/8434/Control?startDate=2018-05-19&endDate=2018-11-19,4,0,13,21,48
-240,ROAR,0.8,16,24.125,386,https://www.hltv.org//stats/teams/8587/ROAR?startDate=2018-05-19&endDate=2018-11-19,3,0,13,26,48
-241,Ambush,0.95,32,26.40625,845,https://www.hltv.org//stats/teams/7674/Ambush?startDate=2018-05-19&endDate=2018-11-19,14,0,18,18,48
-242,Jordan's Money Crew,0.96,20,26.15,523,https://www.hltv.org//stats/teams/9358/Jordan%27s%20Money%20Crew?startDate=2018-05-19&endDate=2018-11-19,9,0,11,42,37
-243,XFORCE,0.87,16,23.625,378,https://www.hltv.org//stats/teams/9091/XFORCE?startDate=2018-05-19&endDate=2018-11-19,4,0,12,34,34
-244,Paradox,0.92,23,26.347826086956523,606,https://www.hltv.org//stats/teams/7983/Paradox?startDate=2018-05-19&endDate=2018-11-19,10,0,13,38,43
-245,Whatever It Takes,0.88,24,24.083333333333332,578,https://www.hltv.org//stats/teams/8999/Whatever%20It%20Takes?startDate=2018-05-19&endDate=2018-11-19,8,0,16,16,48
-246,Dark Sided,0.84,23,24.695652173913043,568,https://www.hltv.org//stats/teams/7212/Dark%20Sided?startDate=2018-05-19&endDate=2018-11-19,6,0,17,37,30
-247,BTRG,0.88,27,25.444444444444443,687,https://www.hltv.org//stats/teams/9107/BTRG?startDate=2018-05-19&endDate=2018-11-19,8,0,19,39,40
-248,Vexed,0.89,54,26.462962962962962,1429,https://www.hltv.org//stats/teams/8020/Vexed?startDate=2018-05-19&endDate=2018-11-19,20,0,34,48,30
-249,KoN Norway,0.88,17,27.764705882352942,472,https://www.hltv.org//stats/teams/6419/KoN%20Norway?startDate=2018-05-19&endDate=2018-11-19,4,0,13,17,48
-250,Surge,0.88,28,24.214285714285715,678,https://www.hltv.org//stats/teams/8833/Surge?startDate=2018-05-19&endDate=2018-11-19,8,0,20,11,48
-251,Blight,0.75,20,24.55,491,https://www.hltv.org//stats/teams/7105/Blight?startDate=2018-05-19&endDate=2018-11-19,2,0,18,29,44
-252,KPI,0.89,18,25.11111111111111,452,https://www.hltv.org//stats/teams/7339/KPI?startDate=2018-05-19&endDate=2018-11-19,8,0,10,38,41
-253,G2,0.92,86,26.406976744186046,2271,https://www.hltv.org//stats/teams/5995/G2?startDate=2018-05-19&endDate=2018-11-19,32,0,54,44,44
-254,Bulldozer,0.86,42,26.0,1092,https://www.hltv.org//stats/teams/9013/Bulldozer?startDate=2018-05-19&endDate=2018-11-19,9,1,32,30,48
-255,boxr,0.99,20,26.65,533,https://www.hltv.org//stats/teams/6050/boxr?startDate=2018-05-19&endDate=2018-11-19,6,0,14,46,20
-256,Rão,0.9,18,25.72222222222222,463,https://www.hltv.org//stats/teams/9226/R%C3%A3o?startDate=2018-05-19&endDate=2018-11-19,8,0,10,20,48
-257,Corvidae,0.9,24,25.375,609,https://www.hltv.org//stats/teams/6922/Corvidae?startDate=2018-05-19&endDate=2018-11-19,8,0,16,42,42
-258,Taboo,0.89,65,26.276923076923076,1708,https://www.hltv.org//stats/teams/8826/Taboo?startDate=2018-05-19&endDate=2018-11-19,18,1,46,39,48
-259,Evolution,0.88,29,26.862068965517242,779,https://www.hltv.org//stats/teams/5946/Evolution?startDate=2018-05-19&endDate=2018-11-19,8,0,21,26,48
-260,Forge,0.85,23,23.73913043478261,546,https://www.hltv.org//stats/teams/8444/Forge?startDate=2018-05-19&endDate=2018-11-19,7,0,16,22,48
-261,Bragantino,0.81,17,24.941176470588236,424,https://www.hltv.org//stats/teams/9361/Bragantino?startDate=2018-05-19&endDate=2018-11-19,4,0,13,32,44
-262,iGame.com,0.85,22,25.636363636363637,564,https://www.hltv.org//stats/teams/7331/iGame.com?startDate=2018-05-19&endDate=2018-11-19,7,0,15,31,48
-263,subtLe,0.89,25,26.52,663,https://www.hltv.org//stats/teams/7217/subtLe?startDate=2018-05-19&endDate=2018-11-19,7,0,18,34,51
-264,5balls,0.88,56,26.553571428571427,1487,https://www.hltv.org//stats/teams/8589/5balls?startDate=2018-05-19&endDate=2018-11-19,19,0,37,33,41
-265,Brutality,0.86,18,26.11111111111111,470,https://www.hltv.org//stats/teams/6352/Brutality?startDate=2018-05-19&endDate=2018-11-19,3,1,14,27,48
-266,MC,0.87,34,25.941176470588236,882,https://www.hltv.org//stats/teams/8738/MC?startDate=2018-05-19&endDate=2018-11-19,11,0,23,29,48
-267,Guerrilla Tactics,0.88,18,22.444444444444443,404,https://www.hltv.org//stats/teams/7882/Guerrilla%20Tactics?startDate=2018-05-19&endDate=2018-11-19,8,0,10,35,33
-268,Uranus,0.86,16,25.75,412,https://www.hltv.org//stats/teams/7516/Uranus?startDate=2018-05-19&endDate=2018-11-19,3,0,13,31,51
-269,MAX,0.77,21,22.857142857142858,480,https://www.hltv.org//stats/teams/8118/MAX?startDate=2018-05-19&endDate=2018-11-19,8,0,13,13,48
-270,Sad Story,0.77,17,23.294117647058822,396,https://www.hltv.org//stats/teams/9076/Sad%20Story?startDate=2018-05-19&endDate=2018-11-19,2,0,15,28,34
+,Name,kdr,maps_played,roundsPerMap,rounds_played,url,rating,Win,Tie,Loss,l3won,l3lost
+0,Astralis,1.21,184,25.891304347826086,4764,https://www.hltv.org//stats/teams/6665/Astralis?startDate=2018-03-21&endDate=2018-11-21,1.18,149,0,35,47,44
+1,FURIA,1.16,161,25.074534161490682,4037,https://www.hltv.org//stats/teams/8297/FURIA?startDate=2018-03-21&endDate=2018-11-21,1.16,115,2,44,48,13
+2,Entity,1.16,32,26.0,832,https://www.hltv.org//stats/teams/7348/Entity?startDate=2018-03-21&endDate=2018-11-21,1.16,21,0,11,48,35
+3,Grayhound,1.2,175,25.17142857142857,4405,https://www.hltv.org//stats/teams/8008/Grayhound?startDate=2018-03-21&endDate=2018-11-21,1.15,133,0,42,41,37
+4,Valiance,1.1,205,26.29268292682927,5390,https://www.hltv.org//stats/teams/8481/Valiance?startDate=2018-03-21&endDate=2018-11-21,1.14,124,1,80,46,29
+5,Uniquestars,1.06,23,25.26086956521739,581,https://www.hltv.org//stats/teams/7739/Uniquestars?startDate=2018-03-21&endDate=2018-11-21,1.14,14,0,9,48,25
+6,OpTic India,1.13,22,25.363636363636363,558,https://www.hltv.org//stats/teams/9167/OpTic%20India?startDate=2018-03-21&endDate=2018-11-21,1.13,17,0,5,52,31
+7,NÃ£o Tem Como,1.11,56,25.089285714285715,1405,https://www.hltv.org//stats/teams/6267/N%C3%A3o%20Tem%20Como?startDate=2018-03-21&endDate=2018-11-21,1.13,34,0,22,37,35
+8,ORDER,1.15,189,25.386243386243386,4798,https://www.hltv.org//stats/teams/8668/ORDER?startDate=2018-03-21&endDate=2018-11-21,1.12,133,0,56,48,19
+9,Natus Vincere,1.11,159,26.37735849056604,4194,https://www.hltv.org//stats/teams/4608/Natus%20Vincere?startDate=2018-03-21&endDate=2018-11-21,1.12,105,0,54,27,42
+10,Beyond,1.09,104,24.932692307692307,2593,https://www.hltv.org//stats/teams/8262/Beyond?startDate=2018-03-21&endDate=2018-11-21,1.12,60,0,44,48,33
+11,Tainted Minds,1.11,154,25.058441558441558,3859,https://www.hltv.org//stats/teams/7517/Tainted%20Minds?startDate=2018-03-21&endDate=2018-11-21,1.12,102,0,52,46,30
+12,MIBR,1.13,109,25.889908256880734,2822,https://www.hltv.org//stats/teams/9215/MIBR?startDate=2018-03-21&endDate=2018-11-21,1.12,71,1,37,48,20
+13,ViCi,1.15,33,26.363636363636363,870,https://www.hltv.org//stats/teams/7606/ViCi?startDate=2018-03-21&endDate=2018-11-21,1.12,26,0,7,48,26
+14,NRG,1.1,207,25.78743961352657,5338,https://www.hltv.org//stats/teams/6673/NRG?startDate=2018-03-21&endDate=2018-11-21,1.12,137,0,70,54,33
+15,Bpro,1.09,153,25.50326797385621,3902,https://www.hltv.org//stats/teams/6762/Bpro?startDate=2018-03-21&endDate=2018-11-21,1.11,102,0,51,39,40
+16,Vitality,1.2,33,25.0,825,https://www.hltv.org//stats/teams/9565/Vitality?startDate=2018-03-21&endDate=2018-11-21,1.11,25,0,8,44,30
+17,TeamOne,1.11,169,25.40828402366864,4294,https://www.hltv.org//stats/teams/6947/TeamOne?startDate=2018-03-21&endDate=2018-11-21,1.11,103,0,66,44,23
+18,Windigo,1.04,240,26.020833333333332,6245,https://www.hltv.org//stats/teams/8513/Windigo?startDate=2018-03-21&endDate=2018-11-21,1.11,146,1,93,43,23
+19,1337HUANIA,1.04,22,25.59090909090909,563,https://www.hltv.org//stats/teams/7552/1337HUANIA?startDate=2018-03-21&endDate=2018-11-21,1.11,13,0,9,30,38
+20,exDT,1.08,17,26.176470588235293,445,https://www.hltv.org//stats/teams/8906/exDT?startDate=2018-03-21&endDate=2018-11-21,1.11,12,0,5,51,26
+21,Imperial,1.1,55,25.527272727272727,1404,https://www.hltv.org//stats/teams/9455/Imperial?startDate=2018-03-21&endDate=2018-11-21,1.1,37,0,18,23,48
+22,Imperial,1.09,175,26.045714285714286,4558,https://www.hltv.org//stats/teams/7701/Imperial?startDate=2018-03-21&endDate=2018-11-21,1.1,110,0,65,23,48
+23,PAPERPLANES,1.03,29,25.96551724137931,753,https://www.hltv.org//stats/teams/8997/PAPERPLANES?startDate=2018-03-21&endDate=2018-11-21,1.1,14,0,15,36,41
+24,ENCE,1.09,166,26.879518072289155,4462,https://www.hltv.org//stats/teams/4869/ENCE?startDate=2018-03-21&endDate=2018-11-21,1.1,108,0,58,41,55
+25,SkitLite,0.91,17,27.352941176470587,465,https://www.hltv.org//stats/teams/6263/SkitLite?startDate=2018-03-21&endDate=2018-11-21,1.1,5,0,12,21,48
+26,Swole Patrol,1.1,220,25.527272727272727,5616,https://www.hltv.org//stats/teams/7726/Swole%20Patrol?startDate=2018-03-21&endDate=2018-11-21,1.1,136,0,84,48,22
+27,ownage,1.24,18,22.944444444444443,413,https://www.hltv.org//stats/teams/5670/ownage?startDate=2018-03-21&endDate=2018-11-21,1.1,14,0,4,48,17
+28,cantwinalan,1.09,26,26.653846153846153,693,https://www.hltv.org//stats/teams/9515/cantwinalan?startDate=2018-03-21&endDate=2018-11-21,1.1,16,1,9,60,42
+29,fish123,1.11,19,25.0,475,https://www.hltv.org//stats/teams/6298/fish123?startDate=2018-03-21&endDate=2018-11-21,1.1,13,0,6,44,21
+30,Invictus,0.96,17,25.941176470588236,441,https://www.hltv.org//stats/teams/7231/Invictus?startDate=2018-03-21&endDate=2018-11-21,1.1,8,0,9,31,46
+31,CyberZen,1.08,108,26.37962962962963,2849,https://www.hltv.org//stats/teams/6503/CyberZen?startDate=2018-03-21&endDate=2018-11-21,1.1,68,0,40,48,18
+32,Virtue,1.13,87,24.919540229885058,2168,https://www.hltv.org//stats/teams/7830/Virtue?startDate=2018-03-21&endDate=2018-11-21,1.1,57,3,27,48,25
+33,HAVU,1.1,147,25.979591836734695,3819,https://www.hltv.org//stats/teams/7865/HAVU?startDate=2018-03-21&endDate=2018-11-21,1.1,95,0,52,40,32
+34,SK,1.05,75,26.653333333333332,1999,https://www.hltv.org//stats/teams/6137/SK?startDate=2018-03-21&endDate=2018-11-21,1.1,44,0,31,43,36
+35,Fierce Tiger,1.03,25,29.0,725,https://www.hltv.org//stats/teams/9030/Fierce%20Tiger?startDate=2018-03-21&endDate=2018-11-21,1.1,13,0,12,46,39
+36,Ignite,1.05,32,26.46875,847,https://www.hltv.org//stats/teams/8706/Ignite?startDate=2018-03-21&endDate=2018-11-21,1.09,17,0,15,48,41
+37,Kinguin,1.08,213,26.906103286384976,5731,https://www.hltv.org//stats/teams/6134/Kinguin?startDate=2018-03-21&endDate=2018-11-21,1.09,129,0,84,46,36
+38,BOOT-d[S],1.07,161,25.4472049689441,4097,https://www.hltv.org//stats/teams/7567/BOOT-d%5BS%5D?startDate=2018-03-21&endDate=2018-11-21,1.09,91,0,70,37,39
+39,mousesports,1.05,200,26.175,5235,https://www.hltv.org//stats/teams/4494/mousesports?startDate=2018-03-21&endDate=2018-11-21,1.09,114,0,86,48,23
+40,Great Danes,1.0,55,27.0,1485,https://www.hltv.org//stats/teams/8971/Great%20Danes?startDate=2018-03-21&endDate=2018-11-21,1.09,23,0,32,26,48
+41,Renegades,1.01,178,27.10112359550562,4824,https://www.hltv.org//stats/teams/6211/Renegades?startDate=2018-03-21&endDate=2018-11-21,1.09,97,0,81,46,48
+42,Vision,1.05,87,26.057471264367816,2267,https://www.hltv.org//stats/teams/9227/Vision?startDate=2018-03-21&endDate=2018-11-21,1.09,48,0,39,37,35
+43,AVANGAR,1.11,195,25.6974358974359,5011,https://www.hltv.org//stats/teams/8120/AVANGAR?startDate=2018-03-21&endDate=2018-11-21,1.09,132,0,63,49,49
+44,iNTACT,1.08,37,26.56756756756757,983,https://www.hltv.org//stats/teams/9176/iNTACT?startDate=2018-03-21&endDate=2018-11-21,1.09,17,0,20,27,36
+45,Armada,0.99,31,25.0,775,https://www.hltv.org//stats/teams/8877/Armada?startDate=2018-03-21&endDate=2018-11-21,1.09,16,0,15,31,39
+46,MVP PK,1.07,150,25.446666666666665,3817,https://www.hltv.org//stats/teams/7354/MVP%20PK?startDate=2018-03-21&endDate=2018-11-21,1.09,96,0,54,48,15
+47,Dark Tigers,1.04,20,27.35,547,https://www.hltv.org//stats/teams/7842/Dark%20Tigers?startDate=2018-03-21&endDate=2018-11-21,1.09,12,1,7,48,25
+48,Dignitas,1.01,104,26.23076923076923,2728,https://www.hltv.org//stats/teams/5422/Dignitas?startDate=2018-03-21&endDate=2018-11-21,1.09,54,0,50,46,44
+49,Vireo.pro,1.02,68,25.808823529411764,1755,https://www.hltv.org//stats/teams/9161/Vireo.pro?startDate=2018-03-21&endDate=2018-11-21,1.09,37,0,31,29,48
+50,TYLOO,1.04,173,26.167630057803468,4527,https://www.hltv.org//stats/teams/4863/TYLOO?startDate=2018-03-21&endDate=2018-11-21,1.09,108,0,65,45,34
+51,5POWER,1.05,151,26.218543046357617,3959,https://www.hltv.org//stats/teams/7092/5POWER?startDate=2018-03-21&endDate=2018-11-21,1.08,84,0,67,40,42
+52,Giants,1.06,52,25.403846153846153,1321,https://www.hltv.org//stats/teams/4949/Giants?startDate=2018-03-21&endDate=2018-11-21,1.08,31,0,21,42,26
+53,Gorilla Gang,1.04,104,25.39423076923077,2641,https://www.hltv.org//stats/teams/8880/Gorilla%20Gang?startDate=2018-03-21&endDate=2018-11-21,1.08,60,0,44,45,33
+54,Torqued,1.04,56,25.571428571428573,1432,https://www.hltv.org//stats/teams/5906/Torqued?startDate=2018-03-21&endDate=2018-11-21,1.08,30,0,26,42,54
+55,VG.Flash,1.03,75,26.04,1953,https://www.hltv.org//stats/teams/9037/VG.Flash?startDate=2018-03-21&endDate=2018-11-21,1.08,43,0,32,37,45
+56,Freedom 35,1.02,34,25.058823529411764,852,https://www.hltv.org//stats/teams/8744/Freedom%2035?startDate=2018-03-21&endDate=2018-11-21,1.08,20,0,14,40,45
+57,Wild,1.05,143,25.23076923076923,3608,https://www.hltv.org//stats/teams/8895/Wild?startDate=2018-03-21&endDate=2018-11-21,1.08,80,2,61,48,35
+58,FURIA Inagame,1.02,75,25.6,1920,https://www.hltv.org//stats/teams/8885/FURIA%20Inagame?startDate=2018-03-21&endDate=2018-11-21,1.08,35,0,40,22,48
+59,Defusekids,1.02,19,24.526315789473685,466,https://www.hltv.org//stats/teams/7666/Defusekids?startDate=2018-03-21&endDate=2018-11-21,1.08,12,0,7,25,40
+60,Signature,1.03,88,24.977272727272727,2198,https://www.hltv.org//stats/teams/6774/Signature?startDate=2018-03-21&endDate=2018-11-21,1.08,47,0,41,37,44
+61,INTZ,1.01,81,25.51851851851852,2067,https://www.hltv.org//stats/teams/6619/INTZ?startDate=2018-03-21&endDate=2018-11-21,1.08,40,0,41,44,29
+62,pro100,1.04,128,26.15625,3348,https://www.hltv.org//stats/teams/7898/pro100?startDate=2018-03-21&endDate=2018-11-21,1.08,67,0,61,43,33
+63,NASR,1.03,44,25.0,1100,https://www.hltv.org//stats/teams/8211/NASR?startDate=2018-03-21&endDate=2018-11-21,1.08,25,0,19,41,54
+64,Liquid,1.08,180,25.6,4608,https://www.hltv.org//stats/teams/5973/Liquid?startDate=2018-03-21&endDate=2018-11-21,1.08,107,0,73,42,32
+65,forZe,1.06,161,26.130434782608695,4207,https://www.hltv.org//stats/teams/8135/forZe?startDate=2018-03-21&endDate=2018-11-21,1.08,93,0,68,40,27
+66,BIG,1.06,131,26.435114503816795,3463,https://www.hltv.org//stats/teams/7532/BIG?startDate=2018-03-21&endDate=2018-11-21,1.08,76,0,55,48,32
+67,North,1.06,216,26.430555555555557,5709,https://www.hltv.org//stats/teams/7533/North?startDate=2018-03-21&endDate=2018-11-21,1.08,133,0,83,25,39
+68,Chiefs,1.11,207,25.03864734299517,5183,https://www.hltv.org//stats/teams/6010/Chiefs?startDate=2018-03-21&endDate=2018-11-21,1.08,142,0,65,34,39
+69,Spacestation,0.99,48,24.979166666666668,1199,https://www.hltv.org//stats/teams/9566/Spacestation?startDate=2018-03-21&endDate=2018-11-21,1.08,23,1,24,23,48
+70,Bajini Puleni,1.05,29,25.655172413793103,744,https://www.hltv.org//stats/teams/8992/Bajini%20Puleni?startDate=2018-03-21&endDate=2018-11-21,1.08,17,0,12,25,48
+71,BlackOut,1.03,71,25.549295774647888,1814,https://www.hltv.org//stats/teams/8700/BlackOut?startDate=2018-03-21&endDate=2018-11-21,1.08,40,0,31,29,48
+72,Dignitas fe,0.98,25,25.48,637,https://www.hltv.org//stats/teams/7640/Dignitas%20fe?startDate=2018-03-21&endDate=2018-11-21,1.08,13,0,12,31,46
+73,GODSENT,1.03,111,26.46846846846847,2938,https://www.hltv.org//stats/teams/6902/GODSENT?startDate=2018-03-21&endDate=2018-11-21,1.08,64,0,47,39,46
+74,F1-racecar-PEEK,0.94,39,24.974358974358974,974,https://www.hltv.org//stats/teams/8602/F1-racecar-PEEK?startDate=2018-03-21&endDate=2018-11-21,1.07,20,0,19,21,42
+75,Sprout,1.03,175,26.46857142857143,4632,https://www.hltv.org//stats/teams/8637/Sprout?startDate=2018-03-21&endDate=2018-11-21,1.07,92,0,83,43,28
+76,Sharks,1.04,150,25.04,3756,https://www.hltv.org//stats/teams/8113/Sharks?startDate=2018-03-21&endDate=2018-11-21,1.07,89,0,61,35,41
+77,compLexity,1.06,241,26.029045643153527,6273,https://www.hltv.org//stats/teams/5005/compLexity?startDate=2018-03-21&endDate=2018-11-21,1.07,137,0,104,44,51
+78,FYB,1.05,20,26.4,528,https://www.hltv.org//stats/teams/9160/FYB?startDate=2018-03-21&endDate=2018-11-21,1.07,14,0,6,51,36
+79,Chaos,1.0,73,26.52054794520548,1936,https://www.hltv.org//stats/teams/9085/Chaos?startDate=2018-03-21&endDate=2018-11-21,1.07,32,0,41,41,27
+80,Wolsung,1.3,17,25.529411764705884,434,https://www.hltv.org//stats/teams/7340/Wolsung?startDate=2018-03-21&endDate=2018-11-21,1.07,15,0,2,55,47
+81,Lyngby Vikings,1.03,27,25.74074074074074,695,https://www.hltv.org//stats/teams/8963/Lyngby%20Vikings?startDate=2018-03-21&endDate=2018-11-21,1.07,14,0,13,25,34
+82,k1ck,1.04,57,26.36842105263158,1503,https://www.hltv.org//stats/teams/4469/k1ck?startDate=2018-03-21&endDate=2018-11-21,1.07,32,0,25,34,47
+83,EURONICS,1.04,263,26.475285171102662,6963,https://www.hltv.org//stats/teams/6343/EURONICS?startDate=2018-03-21&endDate=2018-11-21,1.07,147,0,116,26,48
+84,AZIO,1.01,63,24.88888888888889,1568,https://www.hltv.org//stats/teams/8718/AZIO?startDate=2018-03-21&endDate=2018-11-21,1.07,32,0,31,22,48
+85,ex-Atmosphere,0.93,23,25.391304347826086,584,https://www.hltv.org//stats/teams/9038/ex-Atmosphere?startDate=2018-03-21&endDate=2018-11-21,1.07,7,0,16,31,51
+86,Mythic,1.05,108,25.925925925925927,2800,https://www.hltv.org//stats/teams/5479/Mythic?startDate=2018-03-21&endDate=2018-11-21,1.07,59,0,49,41,47
+87,Flash,1.0,97,24.938144329896907,2419,https://www.hltv.org//stats/teams/7660/Flash?startDate=2018-03-21&endDate=2018-11-21,1.07,50,0,47,41,40
+88,GoldenGitte,1.11,19,26.105263157894736,496,https://www.hltv.org//stats/teams/8716/GoldenGitte?startDate=2018-03-21&endDate=2018-11-21,1.07,12,0,7,45,28
+89,GOSU,0.99,88,25.420454545454547,2237,https://www.hltv.org//stats/teams/8852/GOSU?startDate=2018-03-21&endDate=2018-11-21,1.07,41,0,47,40,41
+90,HellRaisers,1.03,178,25.98314606741573,4625,https://www.hltv.org//stats/teams/5310/HellRaisers?startDate=2018-03-21&endDate=2018-11-21,1.07,100,1,77,51,53
+91,PRIDE,0.88,67,25.55223880597015,1712,https://www.hltv.org//stats/teams/6896/PRIDE?startDate=2018-03-21&endDate=2018-11-21,1.07,23,0,44,48,37
+92,The Pioneers,0.94,51,25.92156862745098,1322,https://www.hltv.org//stats/teams/9014/The%20Pioneers?startDate=2018-03-21&endDate=2018-11-21,1.07,26,0,25,37,39
+93,Atlants,1.01,41,24.951219512195124,1023,https://www.hltv.org//stats/teams/9120/Atlants?startDate=2018-03-21&endDate=2018-11-21,1.07,21,0,20,48,21
+94,Endpoint,1.02,140,26.514285714285716,3712,https://www.hltv.org//stats/teams/7234/Endpoint?startDate=2018-03-21&endDate=2018-11-21,1.07,73,0,67,38,30
+95,Isurus,1.02,192,26.145833333333332,5020,https://www.hltv.org//stats/teams/7653/Isurus?startDate=2018-03-21&endDate=2018-11-21,1.06,113,0,79,48,32
+96,Nemiga,0.99,84,27.13095238095238,2279,https://www.hltv.org//stats/teams/7969/Nemiga?startDate=2018-03-21&endDate=2018-11-21,1.06,42,2,40,42,29
+97,Spirit,1.04,170,25.211764705882352,4286,https://www.hltv.org//stats/teams/7020/Spirit?startDate=2018-03-21&endDate=2018-11-21,1.06,94,0,76,46,32
+98,Universe,1.02,16,25.6875,411,https://www.hltv.org//stats/teams/7442/Universe?startDate=2018-03-21&endDate=2018-11-21,1.06,8,0,8,20,48
+99,WE HAWT,0.97,23,25.347826086956523,583,https://www.hltv.org//stats/teams/8882/WE%20HAWT?startDate=2018-03-21&endDate=2018-11-21,1.06,9,0,14,35,39
+100,Epsilon,1.05,143,25.412587412587413,3634,https://www.hltv.org//stats/teams/4688/Epsilon?startDate=2018-03-21&endDate=2018-11-21,1.06,75,0,68,40,45
+101,HOLLYWOOD,1.02,83,26.433734939759034,2194,https://www.hltv.org//stats/teams/8847/HOLLYWOOD?startDate=2018-03-21&endDate=2018-11-21,1.06,40,0,43,28,41
+102,FLuffy Gangsters,0.96,23,26.608695652173914,612,https://www.hltv.org//stats/teams/6668/FLuffy%20Gangsters?startDate=2018-03-21&endDate=2018-11-21,1.06,10,0,13,29,34
+103,KoN Sweden,1.13,33,26.393939393939394,871,https://www.hltv.org//stats/teams/6418/KoN%20Sweden?startDate=2018-03-21&endDate=2018-11-21,1.06,23,0,10,48,32
+104,OpTic,1.04,205,26.146341463414632,5360,https://www.hltv.org//stats/teams/6615/OpTic?startDate=2018-03-21&endDate=2018-11-21,1.06,113,0,92,42,32
+105,Squared,1.01,54,25.666666666666668,1386,https://www.hltv.org//stats/teams/7669/Squared?startDate=2018-03-21&endDate=2018-11-21,1.06,29,0,25,48,24
+106,NOBO,1.09,45,26.244444444444444,1181,https://www.hltv.org//stats/teams/9099/NOBO?startDate=2018-03-21&endDate=2018-11-21,1.06,29,0,16,48,36
+107,STREAMLINE,1.06,21,26.857142857142858,564,https://www.hltv.org//stats/teams/5869/STREAMLINE?startDate=2018-03-21&endDate=2018-11-21,1.06,12,0,9,44,43
+108,COVE,0.99,19,24.94736842105263,474,https://www.hltv.org//stats/teams/9366/COVE?startDate=2018-03-21&endDate=2018-11-21,1.06,9,0,10,48,21
+109,Singularity,1.01,130,26.338461538461537,3424,https://www.hltv.org//stats/teams/6978/Singularity?startDate=2018-03-21&endDate=2018-11-21,1.06,73,0,57,43,43
+110,eUnited,1.03,205,25.692682926829267,5267,https://www.hltv.org//stats/teams/7106/eUnited?startDate=2018-03-21&endDate=2018-11-21,1.06,111,0,94,44,49
+111,Tempo Storm,0.95,77,26.0,2002,https://www.hltv.org//stats/teams/6118/Tempo%20Storm?startDate=2018-03-21&endDate=2018-11-21,1.06,34,0,43,43,39
+112,Monolith,0.95,54,26.537037037037038,1433,https://www.hltv.org//stats/teams/9182/Monolith?startDate=2018-03-21&endDate=2018-11-21,1.06,21,0,33,42,53
+113,3DMAX,1.04,141,26.177304964539008,3691,https://www.hltv.org//stats/teams/4914/3DMAX?startDate=2018-03-21&endDate=2018-11-21,1.06,83,0,58,30,37
+114,Red Reserve,1.02,146,27.21232876712329,3973,https://www.hltv.org//stats/teams/7613/Red%20Reserve?startDate=2018-03-21&endDate=2018-11-21,1.06,77,0,69,39,40
+115,LDLC,1.05,220,26.70909090909091,5876,https://www.hltv.org//stats/teams/4674/LDLC?startDate=2018-03-21&endDate=2018-11-21,1.06,129,0,91,48,24
+116,Movistar Riders,1.02,88,26.136363636363637,2300,https://www.hltv.org//stats/teams/7718/Movistar%20Riders?startDate=2018-03-21&endDate=2018-11-21,1.06,46,0,42,38,33
+117,AllTheStars,0.95,17,25.352941176470587,431,https://www.hltv.org//stats/teams/9089/AllTheStars?startDate=2018-03-21&endDate=2018-11-21,1.06,8,0,9,36,41
+118,XCN,1.02,26,26.076923076923077,678,https://www.hltv.org//stats/teams/8626/XCN?startDate=2018-03-21&endDate=2018-11-21,1.06,14,0,12,26,51
+119,Ignis,1.05,33,25.272727272727273,834,https://www.hltv.org//stats/teams/9105/Ignis?startDate=2018-03-21&endDate=2018-11-21,1.06,16,0,17,48,15
+120,FrostFire,1.04,50,26.16,1308,https://www.hltv.org//stats/teams/9032/FrostFire?startDate=2018-03-21&endDate=2018-11-21,1.06,33,0,17,48,33
+121,fnatic Academy,1.0,92,25.51086956521739,2347,https://www.hltv.org//stats/teams/7169/fnatic%20Academy?startDate=2018-03-21&endDate=2018-11-21,1.06,48,0,44,51,42
+122,YeaH!,1.04,157,25.611464968152866,4021,https://www.hltv.org//stats/teams/8728/YeaH%21?startDate=2018-03-21&endDate=2018-11-21,1.06,87,2,68,30,45
+123,FaZe,1.05,187,25.994652406417114,4861,https://www.hltv.org//stats/teams/6667/FaZe?startDate=2018-03-21&endDate=2018-11-21,1.06,105,1,81,26,47
+124,MiTH,0.98,32,26.0625,834,https://www.hltv.org//stats/teams/6353/MiTH?startDate=2018-03-21&endDate=2018-11-21,1.06,17,0,15,48,50
+125,Alpha Red,1.0,39,25.28205128205128,986,https://www.hltv.org//stats/teams/8848/Alpha%20Red?startDate=2018-03-21&endDate=2018-11-21,1.06,22,0,17,37,33
+126,UltiCoin,0.97,18,25.38888888888889,457,https://www.hltv.org//stats/teams/9376/UltiCoin?startDate=2018-03-21&endDate=2018-11-21,1.06,9,0,9,42,33
+127,warmup,1.01,17,24.470588235294116,416,https://www.hltv.org//stats/teams/9246/warmup?startDate=2018-03-21&endDate=2018-11-21,1.06,8,0,9,40,39
+128,KoN Denmark,0.96,40,26.125,1045,https://www.hltv.org//stats/teams/6417/KoN%20Denmark?startDate=2018-03-21&endDate=2018-11-21,1.06,17,0,23,45,35
+129,WASD,1.01,43,26.813953488372093,1153,https://www.hltv.org//stats/teams/7668/WASD?startDate=2018-03-21&endDate=2018-11-21,1.05,18,0,25,37,26
+130,GoodJob,1.03,92,26.043478260869566,2396,https://www.hltv.org//stats/teams/7820/GoodJob?startDate=2018-03-21&endDate=2018-11-21,1.05,50,0,42,30,43
+131,Nexus,1.02,162,25.401234567901234,4115,https://www.hltv.org//stats/teams/7187/Nexus?startDate=2018-03-21&endDate=2018-11-21,1.05,90,0,72,41,42
+132,RESOLUTE,1.13,22,24.59090909090909,541,https://www.hltv.org//stats/teams/9228/RESOLUTE?startDate=2018-03-21&endDate=2018-11-21,1.05,12,0,10,51,36
+133,ALTERNATE aTTaX,1.03,209,26.181818181818183,5472,https://www.hltv.org//stats/teams/4501/ALTERNATE%20aTTaX?startDate=2018-03-21&endDate=2018-11-21,1.05,117,0,92,41,39
+134,Legacy,1.0,153,25.18300653594771,3853,https://www.hltv.org//stats/teams/6468/Legacy?startDate=2018-03-21&endDate=2018-11-21,1.05,76,0,77,23,48
+135,Santos,0.93,35,25.6,896,https://www.hltv.org//stats/teams/9213/Santos?startDate=2018-03-21&endDate=2018-11-21,1.05,14,0,21,31,48
+136,Malvinas,0.98,29,24.724137931034484,717,https://www.hltv.org//stats/teams/8121/Malvinas?startDate=2018-03-21&endDate=2018-11-21,1.05,15,0,14,32,42
+137,Ghost,0.98,130,26.107692307692307,3394,https://www.hltv.org//stats/teams/7801/Ghost?startDate=2018-03-21&endDate=2018-11-21,1.05,68,0,62,46,40
+138,HEXAGONE,1.02,17,27.11764705882353,461,https://www.hltv.org//stats/teams/7463/HEXAGONE?startDate=2018-03-21&endDate=2018-11-21,1.05,8,0,9,44,40
+139,TNC,1.02,71,25.098591549295776,1782,https://www.hltv.org//stats/teams/5257/TNC?startDate=2018-03-21&endDate=2018-11-21,1.05,38,0,33,48,30
+140,ex-Space Soldiers,0.92,20,25.7,514,https://www.hltv.org//stats/teams/9572/ex-Space%20Soldiers?startDate=2018-03-21&endDate=2018-11-21,1.05,6,0,14,48,37
+141,NiP,1.02,171,26.280701754385966,4494,https://www.hltv.org//stats/teams/4411/NiP?startDate=2018-03-21&endDate=2018-11-21,1.05,89,2,80,41,45
+142,x6tence Galaxy,0.98,48,25.958333333333332,1246,https://www.hltv.org//stats/teams/9481/x6tence%20Galaxy?startDate=2018-03-21&endDate=2018-11-21,1.05,23,0,25,45,36
+143,Bravado,1.01,160,25.3875,4062,https://www.hltv.org//stats/teams/5158/Bravado?startDate=2018-03-21&endDate=2018-11-21,1.05,91,0,69,47,43
+144,DETONA,1.03,101,25.574257425742573,2583,https://www.hltv.org//stats/teams/8902/DETONA?startDate=2018-03-21&endDate=2018-11-21,1.05,57,0,44,33,41
+145,Japaleno,1.13,45,25.4,1143,https://www.hltv.org//stats/teams/7144/Japaleno?startDate=2018-03-21&endDate=2018-11-21,1.05,29,0,16,43,38
+146,W7M,1.03,166,25.957831325301203,4309,https://www.hltv.org//stats/teams/8574/W7M?startDate=2018-03-21&endDate=2018-11-21,1.05,83,1,82,29,48
+147,Rogue,1.04,180,26.0,4680,https://www.hltv.org//stats/teams/7157/Rogue?startDate=2018-03-21&endDate=2018-11-21,1.05,95,0,85,45,40
+148,Space Soldiers,1.03,130,25.653846153846153,3335,https://www.hltv.org//stats/teams/5929/Space%20Soldiers?startDate=2018-03-21&endDate=2018-11-21,1.05,70,0,60,44,38
+149,unknown,1.01,42,26.666666666666668,1120,https://www.hltv.org//stats/teams/9214/unknown?startDate=2018-03-21&endDate=2018-11-21,1.05,23,0,19,30,46
+150,LeftOut,1.01,24,26.916666666666668,646,https://www.hltv.org//stats/teams/9211/LeftOut?startDate=2018-03-21&endDate=2018-11-21,1.05,10,0,14,25,48
+151,Evilvice,1.09,24,27.791666666666668,667,https://www.hltv.org//stats/teams/8366/Evilvice?startDate=2018-03-21&endDate=2018-11-21,1.05,17,0,7,43,39
+152,AGO,1.0,268,26.73134328358209,7164,https://www.hltv.org//stats/teams/8068/AGO?startDate=2018-03-21&endDate=2018-11-21,1.05,144,0,124,48,31
+153,Winstrike,0.98,85,26.58823529411765,2260,https://www.hltv.org//stats/teams/9183/Winstrike?startDate=2018-03-21&endDate=2018-11-21,1.04,44,0,41,46,35
+154,OFFSET,0.95,29,26.24137931034483,761,https://www.hltv.org//stats/teams/8515/OFFSET?startDate=2018-03-21&endDate=2018-11-21,1.04,14,0,15,47,34
+155,seadoggs,0.84,31,23.225806451612904,720,https://www.hltv.org//stats/teams/8435/seadoggs?startDate=2018-03-21&endDate=2018-11-21,1.04,11,0,20,27,37
+156,attackiereN,0.94,16,27.625,442,https://www.hltv.org//stats/teams/7946/attackiereN?startDate=2018-03-21&endDate=2018-11-21,1.04,7,0,9,36,48
+157,eXtatus,0.91,33,27.515151515151516,908,https://www.hltv.org//stats/teams/6745/eXtatus?startDate=2018-03-21&endDate=2018-11-21,1.04,11,0,22,48,44
+158,x-kom,0.99,143,26.46153846153846,3784,https://www.hltv.org//stats/teams/8846/x-kom?startDate=2018-03-21&endDate=2018-11-21,1.04,72,0,71,38,46
+159,Test Takers,1.0,24,24.625,591,https://www.hltv.org//stats/teams/9400/Test%20Takers?startDate=2018-03-21&endDate=2018-11-21,1.04,14,0,10,48,31
+160,Luminosity,0.98,188,25.425531914893618,4780,https://www.hltv.org//stats/teams/6290/Luminosity?startDate=2018-03-21&endDate=2018-11-21,1.04,82,0,106,42,40
+161,G2,0.96,130,26.53846153846154,3450,https://www.hltv.org//stats/teams/5995/G2?startDate=2018-03-21&endDate=2018-11-21,1.04,57,0,73,44,44
+162,SuperJymy,0.99,148,27.37837837837838,4052,https://www.hltv.org//stats/teams/8504/SuperJymy?startDate=2018-03-21&endDate=2018-11-21,1.04,67,0,81,37,44
+163,SYF,0.99,64,25.0,1600,https://www.hltv.org//stats/teams/5607/SYF?startDate=2018-03-21&endDate=2018-11-21,1.04,31,0,33,40,47
+164,Tricked,1.02,141,25.74468085106383,3630,https://www.hltv.org//stats/teams/4602/Tricked?startDate=2018-03-21&endDate=2018-11-21,1.04,77,0,64,16,48
+165,expert,0.92,45,26.77777777777778,1205,https://www.hltv.org//stats/teams/9393/expert?startDate=2018-03-21&endDate=2018-11-21,1.04,18,0,27,34,49
+166,Lucky7,0.9,20,24.3,486,https://www.hltv.org//stats/teams/8588/Lucky7?startDate=2018-03-21&endDate=2018-11-21,1.04,8,0,12,22,48
+167,MFC,1.03,31,26.096774193548388,809,https://www.hltv.org//stats/teams/9031/MFC?startDate=2018-03-21&endDate=2018-11-21,1.04,16,0,15,36,30
+168,PACT,0.99,118,27.059322033898304,3193,https://www.hltv.org//stats/teams/8248/PACT?startDate=2018-03-21&endDate=2018-11-21,1.04,55,0,63,39,39
+169,Eclipse,1.03,29,25.82758620689655,749,https://www.hltv.org//stats/teams/7892/Eclipse?startDate=2018-03-21&endDate=2018-11-21,1.04,15,0,14,37,39
+170,Andes,0.96,45,26.466666666666665,1191,https://www.hltv.org//stats/teams/8825/Andes?startDate=2018-03-21&endDate=2018-11-21,1.04,16,0,29,46,32
+171,Enyoy,1.0,32,27.5,880,https://www.hltv.org//stats/teams/8721/Enyoy?startDate=2018-03-21&endDate=2018-11-21,1.04,15,0,17,43,54
+172,fightclub,0.93,20,25.05,501,https://www.hltv.org//stats/teams/7823/fightclub?startDate=2018-03-21&endDate=2018-11-21,1.04,9,0,11,22,48
+173,aAa,0.92,60,27.083333333333332,1625,https://www.hltv.org//stats/teams/5639/aAa?startDate=2018-03-21&endDate=2018-11-21,1.04,25,0,35,20,48
+174,fnatic,0.94,146,26.232876712328768,3830,https://www.hltv.org//stats/teams/4991/fnatic?startDate=2018-03-21&endDate=2018-11-21,1.03,62,0,84,48,39
+175,EHOME,1.0,84,25.773809523809526,2165,https://www.hltv.org//stats/teams/7024/EHOME?startDate=2018-03-21&endDate=2018-11-21,1.03,35,0,49,23,48
+176,BTRG,0.88,27,25.444444444444443,687,https://www.hltv.org//stats/teams/9107/BTRG?startDate=2018-03-21&endDate=2018-11-21,1.03,8,0,19,39,40
+177,ex-Velocity,0.85,18,24.77777777777778,446,https://www.hltv.org//stats/teams/9485/ex-Velocity?startDate=2018-03-21&endDate=2018-11-21,1.03,5,0,13,49,45
+178,GameAgents,0.93,40,26.2,1048,https://www.hltv.org//stats/teams/6652/GameAgents?startDate=2018-03-21&endDate=2018-11-21,1.03,12,1,27,42,34
+179,Heroic,0.98,152,26.0,3952,https://www.hltv.org//stats/teams/7175/Heroic?startDate=2018-03-21&endDate=2018-11-21,1.03,74,0,78,44,33
+180,Wind and Rain,1.0,35,24.942857142857143,873,https://www.hltv.org//stats/teams/8823/Wind%20and%20Rain?startDate=2018-03-21&endDate=2018-11-21,1.03,16,0,19,48,25
+181,PLINK,0.96,75,26.4,1980,https://www.hltv.org//stats/teams/9193/PLINK?startDate=2018-03-21&endDate=2018-11-21,1.03,34,0,41,31,46
+182,Pompa,1.04,27,24.40740740740741,659,https://www.hltv.org//stats/teams/8209/Pompa?startDate=2018-03-21&endDate=2018-11-21,1.03,15,0,12,36,30
+183,Big Frames,1.03,25,24.52,613,https://www.hltv.org//stats/teams/9229/Big%20Frames?startDate=2018-03-21&endDate=2018-11-21,1.03,16,0,9,48,24
+184,Lucid Dream,0.98,78,25.576923076923077,1995,https://www.hltv.org//stats/teams/8680/Lucid%20Dream?startDate=2018-03-21&endDate=2018-11-21,1.03,35,0,43,35,48
+185,Excelerate,1.0,33,24.848484848484848,820,https://www.hltv.org//stats/teams/9306/Excelerate?startDate=2018-03-21&endDate=2018-11-21,1.03,15,0,18,25,48
+186,GTZ-Bulls,0.97,16,25.125,402,https://www.hltv.org//stats/teams/9466/GTZ-Bulls?startDate=2018-03-21&endDate=2018-11-21,1.03,6,0,10,36,48
+187,Furious,0.96,78,25.871794871794872,2018,https://www.hltv.org//stats/teams/6799/Furious?startDate=2018-03-21&endDate=2018-11-21,1.03,37,0,41,48,14
+188,Breakaway,0.99,54,25.944444444444443,1401,https://www.hltv.org//stats/teams/9484/Breakaway?startDate=2018-03-21&endDate=2018-11-21,1.03,23,0,31,18,48
+189,madlikewizards,1.01,76,24.05263157894737,1828,https://www.hltv.org//stats/teams/9275/madlikewizards?startDate=2018-03-21&endDate=2018-11-21,1.03,45,0,31,17,48
+190,PITS,0.98,24,26.708333333333332,641,https://www.hltv.org//stats/teams/9265/PITS?startDate=2018-03-21&endDate=2018-11-21,1.03,12,0,12,40,55
+191,MK,0.93,37,25.972972972972972,961,https://www.hltv.org//stats/teams/6959/MK?startDate=2018-03-21&endDate=2018-11-21,1.03,16,1,20,30,48
+192,Recca,0.97,62,25.161290322580644,1560,https://www.hltv.org//stats/teams/7344/Recca?startDate=2018-03-21&endDate=2018-11-21,1.03,30,0,32,32,36
+193,Dragons,1.06,16,25.75,412,https://www.hltv.org//stats/teams/9086/Dragons?startDate=2018-03-21&endDate=2018-11-21,1.03,9,0,7,48,25
+194,XPC,0.93,17,25.0,425,https://www.hltv.org//stats/teams/4982/XPC?startDate=2018-03-21&endDate=2018-11-21,1.03,6,0,11,33,43
+195,Gambit,0.96,166,26.313253012048193,4368,https://www.hltv.org//stats/teams/6651/Gambit?startDate=2018-03-21&endDate=2018-11-21,1.03,73,0,93,22,48
+196,DreamEaters,0.98,129,26.790697674418606,3456,https://www.hltv.org//stats/teams/8305/DreamEaters?startDate=2018-03-21&endDate=2018-11-21,1.03,55,0,74,42,36
+197,Bull,0.93,19,28.263157894736842,537,https://www.hltv.org//stats/teams/9203/Bull?startDate=2018-03-21&endDate=2018-11-21,1.03,7,0,12,37,43
+198,ArkAngel,0.99,32,24.78125,793,https://www.hltv.org//stats/teams/8633/ArkAngel?startDate=2018-03-21&endDate=2018-11-21,1.03,11,0,21,42,40
+199,KlikTech,0.94,16,26.5,424,https://www.hltv.org//stats/teams/8127/KlikTech?startDate=2018-03-21&endDate=2018-11-21,1.03,6,0,10,21,48
+200,Avalanche,0.93,32,26.0,832,https://www.hltv.org//stats/teams/8751/Avalanche?startDate=2018-03-21&endDate=2018-11-21,1.03,11,0,21,39,42
+201,Mineski,0.97,16,25.625,410,https://www.hltv.org//stats/teams/6715/Mineski?startDate=2018-03-21&endDate=2018-11-21,1.03,8,0,8,33,43
+202,HEY,0.91,29,26.344827586206897,764,https://www.hltv.org//stats/teams/8723/HEY?startDate=2018-03-21&endDate=2018-11-21,1.03,9,0,20,40,51
+203,EPG,0.93,106,26.61320754716981,2821,https://www.hltv.org//stats/teams/7489/EPG?startDate=2018-03-21&endDate=2018-11-21,1.03,39,0,67,29,45
+204,tomorrow,1.03,23,28.304347826086957,651,https://www.hltv.org//stats/teams/7000/tomorrow?startDate=2018-03-21&endDate=2018-11-21,1.02,14,0,9,51,38
+205,Forty Six and 2,0.97,45,26.244444444444444,1181,https://www.hltv.org//stats/teams/9074/Forty%20Six%20and%202?startDate=2018-03-21&endDate=2018-11-21,1.02,18,0,27,38,43
+206,Quantum Bellator Fire,0.97,133,26.526315789473685,3528,https://www.hltv.org//stats/teams/7367/Quantum%20Bellator%20Fire?startDate=2018-03-21&endDate=2018-11-21,1.02,59,0,74,44,45
+207,KoN Finland,1.0,34,27.529411764705884,936,https://www.hltv.org//stats/teams/6420/KoN%20Finland?startDate=2018-03-21&endDate=2018-11-21,1.02,18,0,16,64,65
+208,PANTHERS,0.99,50,26.28,1314,https://www.hltv.org//stats/teams/6693/PANTHERS?startDate=2018-03-21&endDate=2018-11-21,1.02,22,0,28,26,39
+209,Vault,0.98,56,26.089285714285715,1461,https://www.hltv.org//stats/teams/6366/Vault?startDate=2018-03-21&endDate=2018-11-21,1.02,30,0,26,40,42
+210,Infamous,0.99,57,25.789473684210527,1470,https://www.hltv.org//stats/teams/9379/Infamous?startDate=2018-03-21&endDate=2018-11-21,1.02,31,0,26,37,45
+211,NOREG,0.98,25,25.72,643,https://www.hltv.org//stats/teams/8473/NOREG?startDate=2018-03-21&endDate=2018-11-21,1.02,12,0,13,45,49
+212,Flow,0.94,34,26.794117647058822,911,https://www.hltv.org//stats/teams/9427/Flow?startDate=2018-03-21&endDate=2018-11-21,1.02,16,0,18,48,28
+213,Izako Boars,0.98,90,26.6,2394,https://www.hltv.org//stats/teams/7681/Izako%20Boars?startDate=2018-03-21&endDate=2018-11-21,1.02,45,0,45,36,41
+214,Cloud9,1.0,132,27.015151515151516,3566,https://www.hltv.org//stats/teams/5752/Cloud9?startDate=2018-03-21&endDate=2018-11-21,1.02,65,0,67,29,46
+215,Old Guys Club,0.93,19,24.894736842105264,473,https://www.hltv.org//stats/teams/9523/Old%20Guys%20Club?startDate=2018-03-21&endDate=2018-11-21,1.02,11,0,8,48,34
+216,Virtus.pro,0.98,199,26.251256281407034,5224,https://www.hltv.org//stats/teams/5378/Virtus.pro?startDate=2018-03-21&endDate=2018-11-21,1.02,89,0,110,41,45
+217,Fragsters,0.98,156,26.46153846153846,4128,https://www.hltv.org//stats/teams/6855/Fragsters?startDate=2018-03-21&endDate=2018-11-21,1.02,79,0,77,35,54
+218,Splyce,0.93,31,25.193548387096776,781,https://www.hltv.org//stats/teams/6301/Splyce?startDate=2018-03-21&endDate=2018-11-21,1.02,11,0,20,31,38
+219,Rise and Grind,0.98,32,24.09375,771,https://www.hltv.org//stats/teams/8887/Rise%20and%20Grind?startDate=2018-03-21&endDate=2018-11-21,1.02,17,0,15,48,28
+220,Syman,0.97,89,27.01123595505618,2404,https://www.hltv.org//stats/teams/8772/Syman?startDate=2018-03-21&endDate=2018-11-21,1.02,44,0,45,48,14
+221,FriendlyFire,1.03,30,26.433333333333334,793,https://www.hltv.org//stats/teams/9062/FriendlyFire?startDate=2018-03-21&endDate=2018-11-21,1.02,15,0,15,32,43
+222,Nordavind,0.98,57,27.140350877192983,1547,https://www.hltv.org//stats/teams/8769/Nordavind?startDate=2018-03-21&endDate=2018-11-21,1.02,26,0,31,27,48
+223,AVANT,0.98,80,25.7625,2061,https://www.hltv.org//stats/teams/5293/AVANT?startDate=2018-03-21&endDate=2018-11-21,1.02,40,0,40,28,37
+224,Berzerk,0.91,29,25.620689655172413,743,https://www.hltv.org//stats/teams/5121/Berzerk?startDate=2018-03-21&endDate=2018-11-21,1.02,13,0,16,45,54
+225,Vikings,0.94,30,26.8,804,https://www.hltv.org//stats/teams/8253/Vikings?startDate=2018-03-21&endDate=2018-11-21,1.02,9,0,21,25,37
+226,SCARZ Absolute,0.94,88,25.352272727272727,2231,https://www.hltv.org//stats/teams/7962/SCARZ%20Absolute?startDate=2018-03-21&endDate=2018-11-21,1.02,38,0,50,43,33
+227,Space Jam,0.98,42,25.952380952380953,1090,https://www.hltv.org//stats/teams/7017/Space%20Jam?startDate=2018-03-21&endDate=2018-11-21,1.02,21,0,21,37,39
+228,Vega Squadron,0.97,69,26.463768115942027,1826,https://www.hltv.org//stats/teams/6094/Vega%20Squadron?startDate=2018-03-21&endDate=2018-11-21,1.02,33,0,36,37,44
+229,Vindicta,0.96,24,27.166666666666668,652,https://www.hltv.org//stats/teams/7577/Vindicta?startDate=2018-03-21&endDate=2018-11-21,1.02,12,0,12,39,43
+230,Hysteria,0.93,30,25.8,774,https://www.hltv.org//stats/teams/9003/Hysteria?startDate=2018-03-21&endDate=2018-11-21,1.02,12,0,18,28,48
+231,Squirtle Squad,0.97,20,25.85,517,https://www.hltv.org//stats/teams/9053/Squirtle%20Squad?startDate=2018-03-21&endDate=2018-11-21,1.02,8,0,12,37,38
+232,QuestionMark,0.99,22,25.818181818181817,568,https://www.hltv.org//stats/teams/9236/QuestionMark?startDate=2018-03-21&endDate=2018-11-21,1.02,10,0,12,41,39
+233,Clutch Solutions,0.95,16,26.0625,417,https://www.hltv.org//stats/teams/9111/Clutch%20Solutions?startDate=2018-03-21&endDate=2018-11-21,1.01,6,0,10,36,40
+234,C4,0.96,122,25.69672131147541,3135,https://www.hltv.org//stats/teams/8051/C4?startDate=2018-03-21&endDate=2018-11-21,1.01,53,1,68,41,37
+235,2ez,0.91,29,25.689655172413794,745,https://www.hltv.org//stats/teams/8460/2ez?startDate=2018-03-21&endDate=2018-11-21,1.01,12,0,17,45,41
+236,Fam143,0.96,61,26.639344262295083,1625,https://www.hltv.org//stats/teams/8815/Fam143?startDate=2018-03-21&endDate=2018-11-21,1.01,27,0,34,17,48
+237,Unique,1.0,35,25.685714285714287,899,https://www.hltv.org//stats/teams/9287/Unique?startDate=2018-03-21&endDate=2018-11-21,1.01,17,0,18,36,39
+238,ETHEREAL,0.95,42,25.595238095238095,1075,https://www.hltv.org//stats/teams/9277/ETHEREAL?startDate=2018-03-21&endDate=2018-11-21,1.01,15,0,27,20,48
+239,BOOM,0.96,19,25.210526315789473,479,https://www.hltv.org//stats/teams/7733/BOOM?startDate=2018-03-21&endDate=2018-11-21,1.01,9,0,10,48,22
+240,NYYRIKKI,0.87,20,25.5,510,https://www.hltv.org//stats/teams/8485/NYYRIKKI?startDate=2018-03-21&endDate=2018-11-21,1.01,6,0,14,24,48
+241,Corvidae,0.88,50,25.64,1282,https://www.hltv.org//stats/teams/6922/Corvidae?startDate=2018-03-21&endDate=2018-11-21,1.01,17,0,33,42,42
+242,Vyalie Pitoni,0.99,25,26.36,659,https://www.hltv.org//stats/teams/9518/Vyalie%20Pitoni?startDate=2018-03-21&endDate=2018-11-21,1.01,13,0,12,51,33
+243,WINside,0.9,69,25.72463768115942,1775,https://www.hltv.org//stats/teams/9055/WINside?startDate=2018-03-21&endDate=2018-11-21,1.01,25,0,44,34,32
+244,EnVyUs Academy,0.92,22,25.681818181818183,565,https://www.hltv.org//stats/teams/7856/EnVyUs%20Academy?startDate=2018-03-21&endDate=2018-11-21,1.01,8,0,14,37,42
+245,The Entourage,0.9,26,26.96153846153846,701,https://www.hltv.org//stats/teams/8623/The%20Entourage?startDate=2018-03-21&endDate=2018-11-21,1.01,13,0,13,38,46
+246,Ground Zero,0.94,135,24.985185185185184,3373,https://www.hltv.org//stats/teams/8536/Ground%20Zero?startDate=2018-03-21&endDate=2018-11-21,1.01,54,1,80,29,41
+247,Royal Bandits,0.94,69,26.36231884057971,1819,https://www.hltv.org//stats/teams/8263/Royal%20Bandits?startDate=2018-03-21&endDate=2018-11-21,1.0,28,0,41,31,43
+248,Envy,0.91,102,25.50980392156863,2602,https://www.hltv.org//stats/teams/5991/Envy?startDate=2018-03-21&endDate=2018-11-21,1.0,31,0,71,37,41
+249,Dynasty,0.96,49,25.857142857142858,1267,https://www.hltv.org//stats/teams/9272/Dynasty?startDate=2018-03-21&endDate=2018-11-21,1.0,17,0,32,35,48
+250,Windigo Academy,0.99,26,27.03846153846154,703,https://www.hltv.org//stats/teams/8898/Windigo%20Academy?startDate=2018-03-21&endDate=2018-11-21,1.0,12,0,14,54,37
+251,Asterion,0.95,31,25.870967741935484,802,https://www.hltv.org//stats/teams/7299/Asterion?startDate=2018-03-21&endDate=2018-11-21,1.0,13,0,18,39,46
+252,RUNUP,1.04,18,27.833333333333332,501,https://www.hltv.org//stats/teams/9118/RUNUP?startDate=2018-03-21&endDate=2018-11-21,1.0,12,0,6,41,34
+253,Glockoma,0.95,41,25.26829268292683,1036,https://www.hltv.org//stats/teams/8545/Glockoma?startDate=2018-03-21&endDate=2018-11-21,1.0,18,0,23,42,31
+254,Smoke Criminals,0.94,54,26.574074074074073,1435,https://www.hltv.org//stats/teams/8369/Smoke%20Criminals?startDate=2018-03-21&endDate=2018-11-21,1.0,19,0,35,34,36
+255,FlipSid3,0.94,25,26.64,666,https://www.hltv.org//stats/teams/5988/FlipSid3?startDate=2018-03-21&endDate=2018-11-21,1.0,7,0,18,36,48
+256,Revoltz,0.95,32,25.8125,826,https://www.hltv.org//stats/teams/9163/Revoltz?startDate=2018-03-21&endDate=2018-11-21,1.0,14,0,18,42,33
+257,KoN Norway,0.92,29,27.17241379310345,788,https://www.hltv.org//stats/teams/6419/KoN%20Norway?startDate=2018-03-21&endDate=2018-11-21,1.0,10,0,19,17,48
+258,iGame.com,0.88,29,27.17241379310345,788,https://www.hltv.org//stats/teams/7331/iGame.com?startDate=2018-03-21&endDate=2018-11-21,1.0,11,0,18,31,48
+259,Storm Rider,0.97,21,24.714285714285715,519,https://www.hltv.org//stats/teams/9507/Storm%20Rider?startDate=2018-03-21&endDate=2018-11-21,1.0,11,0,10,44,36
+260,IMBA.SAS,0.95,26,26.346153846153847,685,https://www.hltv.org//stats/teams/9036/IMBA.SAS?startDate=2018-03-21&endDate=2018-11-21,1.0,11,0,15,29,54
+261,Dark Sided,0.94,49,26.244897959183675,1286,https://www.hltv.org//stats/teams/7212/Dark%20Sided?startDate=2018-03-21&endDate=2018-11-21,1.0,19,0,30,37,30
+262,Prospects,0.82,32,24.34375,779,https://www.hltv.org//stats/teams/6792/Prospects?startDate=2018-03-21&endDate=2018-11-21,1.0,8,0,24,41,24
+263,Jordan's Money Crew,0.96,20,26.15,523,https://www.hltv.org//stats/teams/9358/Jordan%27s%20Money%20Crew?startDate=2018-03-21&endDate=2018-11-21,1.0,9,0,11,42,37
+264,Conspiracy,0.91,23,26.608695652173914,612,https://www.hltv.org//stats/teams/8436/Conspiracy?startDate=2018-03-21&endDate=2018-11-21,1.0,7,0,16,31,40
+265,ROAR,0.91,49,24.959183673469386,1223,https://www.hltv.org//stats/teams/8587/ROAR?startDate=2018-03-21&endDate=2018-11-21,1.0,17,0,32,26,48
+266,2990,0.94,16,25.4375,407,https://www.hltv.org//stats/teams/9100/2990?startDate=2018-03-21&endDate=2018-11-21,1.0,7,0,9,48,25
+267,TRIDENT,0.94,70,25.114285714285714,1758,https://www.hltv.org//stats/teams/5290/TRIDENT?startDate=2018-03-21&endDate=2018-11-21,1.0,26,0,44,37,46
+268,Sparta,1.01,20,25.5,510,https://www.hltv.org//stats/teams/9483/Sparta?startDate=2018-03-21&endDate=2018-11-21,0.99,10,0,10,27,45
+269,Ambush,0.95,38,25.86842105263158,983,https://www.hltv.org//stats/teams/7674/Ambush?startDate=2018-03-21&endDate=2018-11-21,0.99,16,0,22,18,48
+270,PUGSTAR5,0.95,17,29.941176470588236,509,https://www.hltv.org//stats/teams/9155/PUGSTAR5?startDate=2018-03-21&endDate=2018-11-21,0.99,8,0,9,40,39
+271,Codewise Unicorns,0.94,20,25.25,505,https://www.hltv.org//stats/teams/8572/Codewise%20Unicorns?startDate=2018-03-21&endDate=2018-11-21,0.99,8,0,12,41,41
+272,KPI,0.9,26,25.615384615384617,666,https://www.hltv.org//stats/teams/7339/KPI?startDate=2018-03-21&endDate=2018-11-21,0.99,11,0,15,38,41
+273,Brute,0.94,31,26.838709677419356,832,https://www.hltv.org//stats/teams/9139/Brute?startDate=2018-03-21&endDate=2018-11-21,0.99,14,0,17,41,36
+274,Underdogs,0.87,18,25.11111111111111,452,https://www.hltv.org//stats/teams/9357/Underdogs?startDate=2018-03-21&endDate=2018-11-21,0.99,7,0,11,38,37
+275,XFORCE,0.87,16,23.625,378,https://www.hltv.org//stats/teams/9091/XFORCE?startDate=2018-03-21&endDate=2018-11-21,0.99,4,0,12,34,34
+276,anime savants,1.03,17,25.705882352941178,437,https://www.hltv.org//stats/teams/9273/anime%20savants?startDate=2018-03-21&endDate=2018-11-21,0.99,9,0,8,29,41
+277,Coscu Army,0.87,39,26.615384615384617,1038,https://www.hltv.org//stats/teams/8871/Coscu%20Army?startDate=2018-03-21&endDate=2018-11-21,0.99,12,0,27,22,48
+278,Really Old People,0.88,21,24.285714285714285,510,https://www.hltv.org//stats/teams/9102/Really%20Old%20People?startDate=2018-03-21&endDate=2018-11-21,0.99,8,0,13,21,39
+279,R!OT,0.93,23,25.391304347826086,584,https://www.hltv.org//stats/teams/7972/R%21OT?startDate=2018-03-21&endDate=2018-11-21,0.98,10,0,13,30,37
+280,Control,0.93,34,25.764705882352942,876,https://www.hltv.org//stats/teams/8434/Control?startDate=2018-03-21&endDate=2018-11-21,0.98,11,0,23,21,48
+281,Whatever It Takes,0.87,26,24.076923076923077,626,https://www.hltv.org//stats/teams/8999/Whatever%20It%20Takes?startDate=2018-03-21&endDate=2018-11-21,0.98,8,0,18,16,48
+282,boxr,0.99,20,26.65,533,https://www.hltv.org//stats/teams/6050/boxr?startDate=2018-03-21&endDate=2018-11-21,0.98,6,0,14,46,20
+283,Vexed,0.9,73,26.232876712328768,1915,https://www.hltv.org//stats/teams/8020/Vexed?startDate=2018-03-21&endDate=2018-11-21,0.98,27,0,46,36,57
+284,Paradox,0.92,23,26.347826086956523,606,https://www.hltv.org//stats/teams/7983/Paradox?startDate=2018-03-21&endDate=2018-11-21,0.98,10,0,13,38,43
+285,TheMongolz,0.88,39,24.923076923076923,972,https://www.hltv.org//stats/teams/6248/TheMongolz?startDate=2018-03-21&endDate=2018-11-21,0.98,14,0,25,38,42
+286,MC,0.89,43,25.906976744186046,1114,https://www.hltv.org//stats/teams/8738/MC?startDate=2018-03-21&endDate=2018-11-21,0.98,15,0,28,29,48
+287,Blight,0.75,20,24.55,491,https://www.hltv.org//stats/teams/7105/Blight?startDate=2018-03-21&endDate=2018-11-21,0.98,2,0,18,29,44
+288,Bulldozer,0.9,61,25.39344262295082,1549,https://www.hltv.org//stats/teams/9013/Bulldozer?startDate=2018-03-21&endDate=2018-11-21,0.97,16,2,43,21,48
+289,Taboo,0.89,93,26.268817204301076,2443,https://www.hltv.org//stats/teams/8826/Taboo?startDate=2018-03-21&endDate=2018-11-21,0.97,26,1,66,39,48
+290,5balls,0.92,75,26.16,1962,https://www.hltv.org//stats/teams/8589/5balls?startDate=2018-03-21&endDate=2018-11-21,0.97,29,1,45,33,41
+291,Bragantino,0.81,17,24.941176470588236,424,https://www.hltv.org//stats/teams/9361/Bragantino?startDate=2018-03-21&endDate=2018-11-21,0.97,4,0,13,32,44
+292,Evolution,0.88,32,26.46875,847,https://www.hltv.org//stats/teams/5946/Evolution?startDate=2018-03-21&endDate=2018-11-21,0.96,9,0,23,26,48
+293,Ha MaSSe,0.84,31,25.516129032258064,791,https://www.hltv.org//stats/teams/7472/Ha%20MaSSe?startDate=2018-03-21&endDate=2018-11-21,0.96,7,0,24,38,38
+294,Grizzlys,0.89,32,23.40625,749,https://www.hltv.org//stats/teams/8748/Grizzlys?startDate=2018-03-21&endDate=2018-11-21,0.96,11,0,21,48,21
+295,subtLe,0.91,30,25.6,768,https://www.hltv.org//stats/teams/7217/subtLe?startDate=2018-03-21&endDate=2018-11-21,0.96,10,0,20,34,51
+296,x6tence,0.89,18,25.944444444444443,467,https://www.hltv.org//stats/teams/4468/x6tence?startDate=2018-03-21&endDate=2018-11-21,0.96,6,0,12,26,48
+297,Property,0.91,25,28.96,724,https://www.hltv.org//stats/teams/5319/Property?startDate=2018-03-21&endDate=2018-11-21,0.95,8,0,17,35,51
+298,RÃ£o,0.9,18,25.72222222222222,463,https://www.hltv.org//stats/teams/9226/R%C3%A3o?startDate=2018-03-21&endDate=2018-11-21,0.95,8,0,10,20,48
+299,Surge,0.84,36,23.88888888888889,860,https://www.hltv.org//stats/teams/8833/Surge?startDate=2018-03-21&endDate=2018-11-21,0.95,9,0,27,11,48
+300,Forge,0.85,24,23.666666666666668,568,https://www.hltv.org//stats/teams/8444/Forge?startDate=2018-03-21&endDate=2018-11-21,0.95,7,0,17,22,48
+301,Brutality,0.86,18,26.11111111111111,470,https://www.hltv.org//stats/teams/6352/Brutality?startDate=2018-03-21&endDate=2018-11-21,0.94,3,1,14,27,48
+302,gloryUS,0.82,17,24.529411764705884,417,https://www.hltv.org//stats/teams/8989/gloryUS?startDate=2018-03-21&endDate=2018-11-21,0.94,6,0,11,29,42
+303,Guerrilla Tactics,0.88,18,22.444444444444443,404,https://www.hltv.org//stats/teams/7882/Guerrilla%20Tactics?startDate=2018-03-21&endDate=2018-11-21,0.93,8,0,10,35,33
+304,Invictus Aquilas,0.78,16,24.625,394,https://www.hltv.org//stats/teams/7870/Invictus%20Aquilas?startDate=2018-03-21&endDate=2018-11-21,0.93,5,0,11,45,48
+305,Playing Ducks,0.8,16,24.375,390,https://www.hltv.org//stats/teams/5009/Playing%20Ducks?startDate=2018-03-21&endDate=2018-11-21,0.93,4,0,12,13,48
+306,Uranus,0.86,16,25.75,412,https://www.hltv.org//stats/teams/7516/Uranus?startDate=2018-03-21&endDate=2018-11-21,0.92,3,0,13,31,51
+307,No Quarter Cartel,0.8,16,24.75,396,https://www.hltv.org//stats/teams/8843/No%20Quarter%20Cartel?startDate=2018-03-21&endDate=2018-11-21,0.91,3,0,13,38,48
+308,Sad Story,0.81,18,23.0,414,https://www.hltv.org//stats/teams/9076/Sad%20Story?startDate=2018-03-21&endDate=2018-11-21,0.89,3,0,15,28,34
+309,MAX,0.78,29,23.275862068965516,675,https://www.hltv.org//stats/teams/8118/MAX?startDate=2018-03-21&endDate=2018-11-21,0.87,10,0,19,13,48
+310,k0pfsache,0.57,16,21.0,336,https://www.hltv.org//stats/teams/8850/k0pfsache?startDate=2018-03-21&endDate=2018-11-21,0.64,0,0,16,23,48
